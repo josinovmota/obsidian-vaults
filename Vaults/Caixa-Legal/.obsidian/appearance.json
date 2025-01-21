@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 20,
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "theme-override"
+  ],
+  "showViewHeader": true
+}

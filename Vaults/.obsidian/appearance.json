@@ -1,0 +1,12 @@
+{
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "obsidian-default-theme",
+    "theme-override"
+  ],
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "obsidian"
+}

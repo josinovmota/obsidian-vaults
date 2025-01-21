@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Main Notes",
+  "attachmentFolderPath": "Files",
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "tabSize": 4,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "showRibbon": true
+}
