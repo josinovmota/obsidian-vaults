@@ -20,7 +20,7 @@ B   8 10 12
 
 # Meaning
 
-Ocorreu um problema, na hora de criar o DataFrame foi inserido uma unidade de valor à mais aos índices e é preciso remover essa unidade. Afim de consertar isso, podemos utilizar a função apply() para remover uma unidade de cada índice
+Ocorreu um problema, na hora de criar o DataFrame. Foi inserido uma unidade de valor à mais aos índices e é preciso remover essa unidade. Afim de consertar isso, podemos utilizar a função apply() para remover uma unidade de cada índice
 
 # References
 

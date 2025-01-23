@@ -4,9 +4,9 @@ Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Bias Variance Trade-Off
 
-O [[Bias]] [[Variance]] trade-off é um conceito muito importante pois fala sobre como a variance e o bias tendem a ser inversamente proporcionais, ou seja, quando um é alto o outro tende a ser baixo e vice-versa.
+O [[Bias]] [[Variance]] trade-off é um conceito muito importante pois fala sobre como a [[Variance]] e o [[Bias]] tendem a ser inversamente proporcionais, ou seja, quando um é alto o outro tende a ser baixo e vice-versa.
 
-Um indício disso é o de que uma **Variance** alta, normalmente é encontrada em modelos **Flexíveis** e esses modelos flexíveis tende a atender bem os dados de **Treino** mas não são constantes com os dados de **Teste** e nesse caso a tendência é que a nossa prediction performe mal em encontrar a True-Relationship dos dados em geral, o que introduz o **Bias**, portanto, é importante saber que a **Tendência** é sempre de que conforme o **Bias Aumenta**, a **Variance Diminui** e vice-versa.
+~~
 
 Um modelo bom busca ter tanto uma **Variance Baixa** como um **Bias Baixo**, lutando contra essa **Tendência**
 

@@ -4,7 +4,7 @@ Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
 
 # F-statistics
 
-O [[F-statistics]] é mais uma métrica que contribui no entendimento da relação entre a [[Prediction]] e a resposta. orém ela tem alguns pontos em especial que devem ser ditos.
+O [[F-statistics]] é mais uma métrica que contribui no entendimento da relação entre a [[Prediction]] e a resposta. porém ela tem alguns pontos em especial que devem ser ditos.
 
 Resumo do meu jeito:
 

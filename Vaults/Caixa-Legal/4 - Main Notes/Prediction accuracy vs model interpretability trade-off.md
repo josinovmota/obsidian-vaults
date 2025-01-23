@@ -4,7 +4,7 @@ Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Prediction accuracy vs model interpretability trade-off
 
-Um modelo pode tanto ter uma **precisão boa** como uma **interpretabilidade boa**. Existem casos em que ambos são bons, mas na maioria das vezes existe um **trade-off** entre esses dois casos, ou seja, quando um é bom, o outro tende a ser pior e vice-versa. Modelo **não-flexíveis**, ou seja, modelos que geral predictions simples como as lineares tendem a ser mais fáceis de interpretar(Explico nos exemplos). Já os modelos **flexíveis** tendem a serem bem precisos, porém, tem uma interpretabilidade ruim(Explico nos exemplos) 
+Um modelo pode tanto ter uma **precisão boa** como uma **interpretabilidade boa**. Existem casos em que ambos são bons, mas na maioria das vezes existe um **trade-off** entre esses dois casos, ou seja, quando um é bom, o outro tende a ser pior e vice-versa. Modelos **não-flexíveis**, ou seja, modelos que geram predictions simples como as lineares tendem a ser mais fáceis de interpretar(Explico nos exemplos). Já os modelos **flexíveis** tendem a serem bem precisos, porém, tem uma interpretabilidade ruim(Explico nos exemplos) 
 
 # Example
 
