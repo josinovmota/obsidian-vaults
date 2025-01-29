@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9f52f7c80d1e67",
+        "id": "dd07561f30093350",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6ea09e4d5cc03b",
+            "id": "9da0f179e9d63615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Temp Notes/TEMP Banco de Dados.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TEMP Banco de Dados"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistical learning",
+                "query": "slicing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,49 +160,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dd6ea09e4d5cc03b",
+  "active": "9da0f179e9d63615",
   "lastOpenFiles": [
+    "4 - Main Notes/Slicing.md",
+    "Files/Pasted image 20250129005737.png",
+    "Files/Pasted image 20250129005724.png",
+    "5 - Temp Notes/TEMP Lógica de programação e algorítmos.md",
+    "4 - Main Notes/Prediction accuracy vs model interpretability trade-off.md",
+    "4 - Main Notes/Output variables.md",
+    "4 - Main Notes/Outliers.md",
+    "4 - Main Notes/Bias.md",
+    "4 - Main Notes/Bias Variance Trade-Off.md",
+    "Files/Pasted image 20250128233052.png",
+    "Files/Pasted image 20250128233027.png",
+    "Files/Pasted image 20250128232946.png",
+    "Files/Pasted image 20250128232552.png",
+    "Files/Pasted image 20250128232436.png",
+    "3 - Templates/Uninter - Lógica de Programação e Algorítmos.md",
+    "Banco de Dados.md",
+    "3 - Templates/Uninter - Banco de Dados.md",
+    "3 - Templates/Statistical Learning - ISLP Template.md",
     "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
-    "Files/Pasted image 20250127161734.png",
-    "Files/Pasted image 20250127161314.png",
+    "4 - Main Notes/teste.md",
+    "Templater/auto-bold.md.md",
+    "Templater",
+    "Files/Pasted image 20250128214557.png",
+    "Files/Pasted image 20250128214158.png",
+    "Files/Pasted image 20250128214142.png",
+    "4 - Main Notes/Projeto de Bancos de Dados.md",
+    "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
+    "5 - Temp Notes/TEMP Banco de Dados.md",
+    "4 - Main Notes/Intercept and Slope in Linear Regression.md",
     "Files",
     "Untitled.md",
-    "4 - Main Notes/Projeto de Bancos de Dados.md",
-    "5 - Temp Notes/TEMP Banco de Dados.md",
-    "4 - Main Notes/Untitled.md",
     "4 - Main Notes/Fix Ubuntu Clock DualBoot.md",
-    "Files/Pasted image 20250127154120.png",
-    "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
-    "3 - Templates/Uninter - Banco de Dados.md",
     "4 - Main Notes/Apply().md",
     "4 - Main Notes/Data Preparation.md",
     "4 - Main Notes/Enumerate().md",
     "4 - Main Notes/Groupby().md",
     "4 - Main Notes/Linux Installation.md",
-    "4 - Main Notes/Mean.md",
-    "4 - Main Notes/Intercept and Slope in Linear Regression.md",
-    "4 - Main Notes/F-statistics.md",
-    "4 - Main Notes/Dados e informação.md",
-    "3 - Templates/Git Template.md",
-    "3 - Templates/Linear Regression - ISLP Template.md",
-    "3 - Templates/Note Template.md",
-    "4 - Main Notes/Bias Variance Trade-Off.md",
-    "4 - Main Notes/Bias.md",
-    "6 - Tags/Pandas.md",
-    "6 - Tags/Linear Regression.md",
-    "6 - Tags/Statistical Learning.md",
     "6 - Tags",
     "Untitled.canvas",
-    "4 - Images/Pasted image 20240530092123.png",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Images",
     "3 - Tags",
     "2 - Source Materials",
     "1 - Temporary Notes",
-    "Zettels/Roadmap DS",
-    "Zettels/Data Science",
-    "Images/Pasted image 20240411144735.png",
-    "Pasted image 20240411144723.png"
+    "Zettels/Roadmap DS"
   ]
 }

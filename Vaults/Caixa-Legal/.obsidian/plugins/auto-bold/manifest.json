@@ -1,0 +1,11 @@
+{
+  "id": "auto-bold",
+  "name": "AutoBold",
+  "version": "1.0.0",
+  "minAppVersion": "0.13.11",
+  "description": "Aplica negrito automaticamente a palavras que já foram colocadas em negrito anteriormente na mesma nota.",
+  "author": "Seu Nome",
+  "authorUrl": "https://github.com/seu-perfil",
+  "helpUrl": "https://github.com/seu-perfil/auto-bold",
+  "isDesktopOnly": false
+}

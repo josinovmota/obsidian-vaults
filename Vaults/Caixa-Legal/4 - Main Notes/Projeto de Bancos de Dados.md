@@ -8,7 +8,7 @@ Tags:[[Banco de Dados]], [[Uninter]]
 
 Para mostrar num meio mais visual, aqui está um exemplo do passo a passo:
 
-![[Pasted image 20250127154120.png]]
+![[Pasted image 20250128205801.png]]
 
 Aqui podemos observar diversas fases que serão citadas posteriormente. Dentre elas temos as **Regras de Negócio** e o **Modelo Conceitual** que caminham juntos, já que eles meio que são feitos juntos, após isso temos o **Modelo Lógico** que é uma fase aonde estamos organizando ainda mais os dados para posteriormente escolher um [[Sistemas de Gerenciamento de Banco de Dados - Sgbd]]. Por fim, temos o **Modelo Físico** que é a fase aonde escolhemos o Sistema e fazemos os retoques finais. Aqui estão as etapas e suas características:
 
