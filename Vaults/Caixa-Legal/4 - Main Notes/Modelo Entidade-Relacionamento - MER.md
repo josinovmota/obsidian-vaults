@@ -42,6 +42,31 @@ Um dos exemplos mais usados para explicar as **FK** é o das entidades `cliente`
 
 Podemos ver que dentro da entidade **Pedidos** temos um campo chamado `cliente_id`, campo esse que faz referência à chave primária(PK) da entidade **Clientes**. Isso se faz necessário pois é importante que cada **Pedido** tenha um **Cliente** associado a ele e, para evitar duplicidade e ter uma maior organização, utilizamos uma **FK** que faz referência à **PK** de **Clientes**
 
+Existem certas regras de **Cardinalidade** para as Foreign Keys que devem ser respeitadas para cada **Relação** entre **Entidades**. Aqui estão alguns exemplos:
+
++ Relacionamento (1,1) - Em um relacionamento de Um para Um podemos colocar a **FK** em qualquer um dos lados
++ Relacionamento (n,1) - Em um relacionamento de Um para Todos ou Todos para Um é necessário colocar a **FK** no lado **N** 
+
+O Relacionamento (n,n) merece um super tópico já que é o mais complexo. Quando temos um relacionamento de Muitos para Muitos caímos no problema de que para escrever isso em um banco de dados, um índice teria que ter 2 valores e isso não é permitido em Bancos de Dados. Aqui está um exemplo:
+
+![[Pasted image 20250130002939.png]]
+
+O primeiro índice do Campo `Conta` teria que ter 2 valores e isso é impossível dentro do banco de dados. e é aí que surge a necessidade de criar uma **Entidade Associativa**, ou seja, uma entidade que faz uma ponte entre as duas **Entidades** afim de solucionar o problema. Aqui está um exemplo da inclusão dessas **Entidade** intermediária:
+
+![[Pasted image 20250130003139.png]]
+
+Mas aí surge um problema, aonde ficará a chave principal dessa nova Entidade? Para solucionar esse problema tem 2 alternativas mas aqui só vou citar a mais utilizada que é criar uma **Surrogate Key**. Nesse caso a Surrogate Key fica como **Chave Primária** dentro da **Entidade** como pode ser visto nesse exemplo: 
+
+![[Pasted image 20250130003502.png]]
+
+
+# Chave Substituta(Surrogate Key)
+
+A **Surrogate Key** é muito parecida com a **Foreign Key** pois ela também faz referência a um **Campo**, porém, ela trabalha dentro da própria entidade, enquanto a **FK** trabalha entre 2 entidades e tem como objetivo relacionar tabelas, a **SK** serve para tornar mais simples um Campo que tenha um valor muito grande ou complexo. Ela também serve para facilitar a identificação de campos que tendem a mudar bastante, como por exemplo o campo `Email`, pode ser que o usuário venha a mudar seu email dentro da plataforma e se usamos o email dele para identificá-lo, teria que haver uma grande mudança na identificação dessa pessoa. Nesse caso, podemos usar uma **SK** fazendo referência ao Email, assim, mesmo que o email seja mudado, teremos uma identificação desse usuário.
+
+Vale lembrar que a **SK** é imutável, ou seja, ela sempre vai permanecer com os mesmos valores, diferente das chaves comuns que podem ficar mudando
+
+A Surrogate Key toma o lugar da Chave Primária, sendo assim não mais obrigatória que exista uma Chave Primária na Entidade
 # Cardinalidade
 
 A cardinalidade entre duas **Entidades** nada mais é do que o tipo de relacionamento que essas Entidades tem. No Modelo Conceitual entre as **Entidades** temos um **Losango** que representa a relação entre as 2 **Entidades**. Aqui está um exemplo desse **Losango**:
@@ -61,4 +86,4 @@ Aqui podemos ver que a cardinalidade(relação) entre a Entidade **Conta** e a E
 
 ![[Pasted image 20250128214557.png]]
 
-É importante notar que a **Cardinalidade** nesse exemplo lê-se ao contrário, ou seja, **Cliente** para **Cidade** é (1,1) e não (0,n) 
+É importante notar que a **Cardinalidade** nesse exemplo lê-se ao contrário, ou seja, **Cliente** para **Cidade** é (1,1) e não (0,n)

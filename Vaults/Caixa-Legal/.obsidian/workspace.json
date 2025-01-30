@@ -11,10 +11,15 @@
             "id": "9da0f179e9d63615",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Tags/Banco de Dados.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Banco de Dados"
             }
           }
         ]
@@ -162,6 +167,15 @@
   },
   "active": "9da0f179e9d63615",
   "lastOpenFiles": [
+    "4 - Main Notes/Projeto de Bancos de Dados.md",
+    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
+    "5 - Temp Notes/TEMP Banco de Dados.md",
+    "6 - Tags/Banco de Dados.md",
+    "Files/Pasted image 20250130003502.png",
+    "Files/Pasted image 20250130003500.png",
+    "Files/Pasted image 20250130003139.png",
+    "Files/Pasted image 20250130003128.png",
+    "Files/Pasted image 20250130002939.png",
     "4 - Main Notes/Slicing.md",
     "Files/Pasted image 20250129005737.png",
     "Files/Pasted image 20250129005724.png",
@@ -174,22 +188,13 @@
     "Files/Pasted image 20250128233052.png",
     "Files/Pasted image 20250128233027.png",
     "Files/Pasted image 20250128232946.png",
-    "Files/Pasted image 20250128232552.png",
-    "Files/Pasted image 20250128232436.png",
     "3 - Templates/Uninter - Lógica de Programação e Algorítmos.md",
-    "Banco de Dados.md",
     "3 - Templates/Uninter - Banco de Dados.md",
     "3 - Templates/Statistical Learning - ISLP Template.md",
-    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
     "4 - Main Notes/teste.md",
     "Templater/auto-bold.md.md",
     "Templater",
-    "Files/Pasted image 20250128214557.png",
-    "Files/Pasted image 20250128214158.png",
-    "Files/Pasted image 20250128214142.png",
-    "4 - Main Notes/Projeto de Bancos de Dados.md",
     "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
-    "5 - Temp Notes/TEMP Banco de Dados.md",
     "4 - Main Notes/Intercept and Slope in Linear Regression.md",
     "Files",
     "Untitled.md",

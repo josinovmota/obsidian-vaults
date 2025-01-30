@@ -18,5 +18,17 @@ O modelo conceitual é uma das primeiras fases, ela vem após a obtenção das *
 
 + Uma pessoa só pode ter o campo `Aprovado` com o valor `True` caso ela tenha uma `Nota` maior que 70
 
-Esse modelo tem como principal característica trazer todas as regras para a **"Linguagem"** dos **Bancos de dados**, ou seja, é aqui que **Traduzimos** as regras de negócio para o formato utilizado na criação do **Banco de Dados**. No [[Modelo Entidade-Relacionamento - MER]] estabelecemos as **Entidades**, **Campos**, **Relações entre Entidades**, entre outras coisas. É aqui também que criamos as relações de cardinalidade entre as **Entidades**, criamos **Chaves Primárias**, **Chaves Estrangeiras**, etc.
+Esse modelo tem como principal característica trazer todas as regras para a **"Linguagem"** dos **Bancos de dados**, ou seja, é aqui que **Traduzimos** as regras de negócio para o formato utilizado na criação do **Banco de Dados**.
+
+# Modelo Lógico
+
+Partindo do **Modelo Conceitual** vê-se a necessidade de organizar ainda mais as regras de negócio e é aí que usamos o [[Modelo Entidade-Relacionamento - MER]] pois ele é uma interface gráfica que vai ajudar a organizar todas as medidas que tomamos no Modelo Conceitual. Aqui também começamos a refinar ainda mais as **Entidades, Campos, Relações entre as Entidades, Chaves Primárias, Chaves Estrangeiras, Chaves Substitutas,** também começamos a estabelecer as **Cardinalidades** entre as **Entidades**, criamos também as **Entidades Associativas**.
+
+# Modelo Físico
+
+O Modelo Físico é o último modelo antes da criação do **Banco de Dados**. É aqui que procuramos um [[Sistemas de Gerenciamento de Banco de Dados - Sgbd]] que se adeque mais ao nosso modelo de **Banco de Dados** e também começamos a migrar tudo aquilo que foi criado nos Modelo anteriores para o Sistema escolhido. Aqui definimos os tipos de dados, tomando sempre cuidado para usar os tipos de dados específicos da demanda de um Campo afim de trazer mais performance ao nosso **BD**.
+
+
+
+
 
