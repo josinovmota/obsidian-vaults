@@ -18,6 +18,8 @@ A **Entidade** é uma representação abstrata das das coisas do mundo real, com
 
 # Campos
 
+^231e5b
+
 Os campos são propriedades que caracterizam uma **Entidade**. De maneira análoga ao **POO**, eles são os objetos da classe. Aqui está um exemplo de uma Entidade e de seus Campos:
 
 ![[Pasted image 20250127161734.png]]

@@ -10,5 +10,6 @@
   "enabledCssSnippets": [
     "theme-override"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

@@ -8,7 +8,7 @@ A estrutura do Linux é composta por alguns componentes importantes que vou cita
 
 ## Kernel
 
-O kernel é o orquestrador entre o *Hardware* e o Usuário e tem algumas funções bem importantes, como:
+O kernel é o **Orquestrador** entre o **Hardware** e o **Usuário** e tem algumas funções bem importantes, como:
 
 System Memory Management
 + O kernel é responsável por criar blocos de memórias reservados para cada aplicação. É importante que cada aplicação tenha seu próprio espaço reservado para não have interações entre elas
