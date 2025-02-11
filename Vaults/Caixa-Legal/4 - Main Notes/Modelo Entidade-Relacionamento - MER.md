@@ -18,8 +18,6 @@ A **Entidade** é uma representação abstrata das das coisas do mundo real, com
 
 # Campos
 
-^231e5b
-
 Os campos são propriedades que caracterizam uma **Entidade**. De maneira análoga ao **POO**, eles são os objetos da classe. Aqui está um exemplo de uma Entidade e de seus Campos:
 
 ![[Pasted image 20250127161734.png]]
@@ -28,7 +26,7 @@ Como é possível ver na image, cada campo é composto por uma linha e uma bolin
 
 # Chave Primária(PK)
 
-Como dito anteriormente, cada campo tem sua propriedade e os campos com a propriedade **Chave Primária** tem uma grande particularidade. Eles funcionam como um identificador da **Entidade**, ou seja, podem ser um `Id`, `Codigo` e tem como principal objetivo diferenciar as **Entidades** umas das outras evitando duplicidade.
+Como dito anteriormente, cada campo tem sua propriedade e os campos com a propriedade **Chave Primária** tem uma grande particularidade. Elas funcionam como um identificador da **Entidade**, ou seja, podem ser um `Id`, `Codigo` e tem como principal objetivo diferenciar as **Entidades** umas das outras evitando duplicidade.
 
 # Chave Secundária
 

@@ -22,7 +22,7 @@ Esse modelo tem como principal característica trazer todas as regras para a **"
 
 # Modelo Lógico
 
-Partindo do **Modelo Conceitual** vê-se a necessidade de organizar ainda mais as regras de negócio e é aí que usamos o [[Modelo Entidade-Relacionamento - MER]] pois ele é uma interface gráfica que vai ajudar a organizar todas as medidas que tomamos no Modelo Conceitual. Aqui também começamos a refinar ainda mais as **Entidades, Campos, Relações entre as Entidades, Chaves Primárias, Chaves Estrangeiras, Chaves Substitutas,** também começamos a estabelecer as **Cardinalidades** entre as **Entidades**, criamos também as **Entidades Associativas**.
+Partindo do **Modelo Conceitual** vê-se a necessidade de organizar ainda mais as regras de negócio e é aí que usamos o [[Modelo Entidade-Relacionamento - MER]] pois ele cria uma interface gráfica que vai ajudar a organizar todas as medidas que tomamos no Modelo Conceitual. Aqui também começamos a refinar ainda mais as **Entidades, Campos, Relações entre as Entidades, Chaves Primárias, Chaves Estrangeiras, Chaves Substitutas,** também começamos a estabelecer as **Cardinalidades** entre as **Entidades**, criamos também as **Entidades Associativas**.
 
 # Modelo Físico
 

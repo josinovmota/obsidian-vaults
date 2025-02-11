@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9826d9bac10fcc65",
+        "id": "0743fc78de1b4a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "036f75d839d4e983",
+            "id": "22a60fa28002130a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Modelo de Dados Relacional.md",
-                "mode": "source",
+                "file": "4 - Main Notes/Fix Ubuntu Clock DualBoot.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Modelo de Dados Relacional"
-            }
-          },
-          {
-            "id": "c4fe97c3de7a1e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Main Notes/Modelo de Dados Relacional.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Modelo de Dados Relacional"
+              "title": "Fix Ubuntu Clock DualBoot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,44 +177,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c4fe97c3de7a1e67",
+  "active": "966019167f709f63",
   "lastOpenFiles": [
-    "Files/Pasted image 20250131090112.png",
+    "4 - Main Notes/Enumerate().md",
+    "4 - Main Notes/Slicing.md",
+    "5 - Temp Notes/TEMP Lógica de programação e algorítmos.md",
+    "5 - Temp Notes/TEMP TODO.md",
+    "5 - Temp Notes/TEMP Linear Regression.md",
+    "5 - Temp Notes/TEMP ISLP.md",
+    "5 - Temp Notes/TEMP DS.md",
     "5 - Temp Notes/TEMP Banco de Dados.md",
+    "6 - Tags/Banco de Dados.md",
     "4 - Main Notes/Modelo de Dados Relacional.md",
+    "4 - Main Notes/T-statistics.md",
+    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
+    "4 - Main Notes/Projeto de Bancos de Dados.md",
+    "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
+    "4 - Main Notes/Dados e informação.md",
+    "4 - Main Notes/Standard Error.md",
+    "4 - Main Notes/P-Value.md",
+    "4 - Main Notes/Inference.md",
+    "4 - Main Notes/Linux Commands.md",
+    "4 - Main Notes/Trimmed Mean.md",
+    "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
+    "4 - Main Notes/Groupby().md",
+    "4 - Main Notes/Fix Ubuntu Clock DualBoot.md",
+    "4 - Main Notes/F-statistics.md",
+    "4 - Main Notes/Typing Training.md",
+    "3 - Templates/Statistical Learning - ISLP Template.md",
+    "Files/Pasted image 20250203002303.png",
+    "Files/Pasted image 20250203002038.png",
+    "Files/Pasted image 20250203001306.png",
+    "Files/Pasted image 20250131090112.png",
     "Files/Pasted image 20250131083920.png",
     "Files/Pasted image 20250131083729.png",
     "Files/Pasted image 20250131083531.png",
     "Files/Pasted image 20250131083522.png",
     "Files/Pasted image 20250131080315.png",
-    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
-    "4 - Main Notes/Prediction.md",
-    "4 - Main Notes/F-statistics.md",
-    "4 - Main Notes/Dados e informação.md",
-    "4 - Main Notes/Untitled.md",
-    "4 - Main Notes/Untitled 1.md",
-    "4 - Main Notes/Intercept and Slope in Linear Regression.md",
-    "4 - Main Notes/Inference.md",
-    "4 - Main Notes/Enumerate().md",
-    "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
-    "4 - Main Notes/Projeto de Bancos de Dados.md",
-    "4 - Main Notes/Prediction accuracy vs model interpretability trade-off.md",
-    "4 - Main Notes/Non-Parametric Methods.md",
     "Files/Pasted image 20250131042826.png",
-    "ISLP.md",
-    "4 - Main Notes/Least Squares.md",
-    "4 - Main Notes/Linux Structure.md",
-    "4 - Main Notes/Linux Commands.md",
-    "4 - Main Notes/Linux Installation.md",
-    "1 - Source Materials/Jupyter Notebook.md",
-    "Files/Pasted image 20250131030028.png",
-    "6 - Tags/Banco de Dados.md",
-    "Files/Pasted image 20250130003502.png",
-    "Files/Pasted image 20250130003500.png",
-    "Files/Pasted image 20250130003139.png",
-    "4 - Main Notes/Slicing.md",
-    "5 - Temp Notes/TEMP Lógica de programação e algorítmos.md",
-    "4 - Main Notes/Output variables.md",
     "Templater",
     "Files",
     "6 - Tags",

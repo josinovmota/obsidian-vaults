@@ -34,9 +34,22 @@ E na **Relação** principal fazemos referência por meio de uma **Foreign Key**
 
 ## 2a Forma Normal
 
-É importante que a **1FN** tenha sido feita para prosseguirmos para a **2FN**. A segunda forma normal fala que todos os **atributos não-chaves** devem depender de toda a **Chave Principal** da **Relação**, ou seja, quando ocorrem **Chaves Compostas** não podemos ter **atributos** que dependem exclusivamente apenas de uma das **Chaves Compostas**. aqui tem um exemplo disso:
+É importante que a **1FN** tenha sido feita para prosseguirmos para a **2FN**. A **segunda forma normal** fala que todos os **atributos não-chaves** devem depender de toda a **Chave Principal** da **Relação**, ou seja, quando ocorrem **Chaves Compostas** não podemos ter **atributos** que dependem exclusivamente apenas de uma das **Chaves Compostas**. aqui tem um exemplo disso:
 
 ![[Pasted image 20250131090112.png]]
 
+Podemos observar que os **Atributos** `descricao` e `valourUnitario` dependem exclusivamente da chave **produtoId** e isso não pode ocorrer, já que temos uma **Chave Primária Composta**. Para resolver isso, criamos uma nova **Relação** com esses **Atributos** e fazemos referência a ela na **Relação** principal, como é mostrado no exemplo à seguir:
 
-  
+![[Pasted image 20250203001306.png]]
+
+Só não foi movido o **valorUnitario**, mas ele está errado segundo a **2FN**
+
+## 3a Forma Normal
+
+A **Terceira Forma Normal** fala sobre **Atributos** que derivam de outros **Atributos** que não são a **Chave Principal**. Esses atributos devem ser removidos e também é necessário saber que para aplicar a **3FN** é necessário ter feito antes a **1FN** e a **2FN**. Aqui temos um exemplo:
+
+![[Pasted image 20250203002038.png]]
+
+Podemos observar que o **Atributo** `total` deriva dos atributos `valorUnitario`e `quantidade`. Segundo a **3FN** isso não pode ocorrer, já que nenhum desses dois **Atributos** são as **Chaves Principais** da nossa **Relação**. Portanto devemos **removê-lo** e apenas fazer esse **cálculo** dinamicamente, ou seja, apenas quando ele for necessário. Aqui está um exemplo de como a tabela fica:
+
+![[Pasted image 20250203002303.png]]

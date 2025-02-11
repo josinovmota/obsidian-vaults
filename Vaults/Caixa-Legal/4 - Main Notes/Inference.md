@@ -4,7 +4,7 @@ Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Inference
 
-Inference, nos modelos de **Machine Learning**, diferente das predictions, tem a ver com inferir coisas baseado nos inputs
+Inference, nos modelos de **Machine Learning**, diferente da [[Prediction]], tem a ver com inferir coisas baseado nos inputs
 
 # Example
 
