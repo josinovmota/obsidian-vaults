@@ -11,10 +11,24 @@
             "id": "22a60fa28002130a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4 - Main Notes/Mysql - SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mysql - SQL"
             }
           }
         ]
@@ -165,20 +179,22 @@
   },
   "active": "22a60fa28002130a",
   "lastOpenFiles": [
+    "6 - Tags/Banco de Dados.md",
+    "5 - Temp Notes/TEMP Banco de Dados.md",
+    "4 - Main Notes/Mysql - SQL.md",
+    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
+    "4 - Main Notes/Tipos de dados - SQL.md",
     "3 - Templates/Uninter - Lógica de Programação e Algorítmos.md",
     "3 - Templates/Statistical Learning - ISLP Template.md",
     "3 - Templates/Linear Regression - ISLP Template.md",
     "3 - Templates/Note Template.md",
-    "4 - Main Notes/Untitled.md",
     "4 - Main Notes/Slicing.md",
-    "Lógica de programação e Algorítmos.md",
-    "6 - Tags/Banco de Dados.md",
-    "Uninter.md",
+    "6 - Tags/Lógica de programação e Algorítmos.md",
+    "6 - Tags/Uninter.md",
     "6 - Tags/ISLP.md",
     "6 - Tags/Linear Regression.md",
     "2 - Images Content/Untitled.canvas",
-    "Statistics.md",
-    "5 - Temp Notes/TEMP Banco de Dados.md",
+    "6 - Tags/Statistics.md",
     "4 - Main Notes/Fix Ubuntu Clock DualBoot.md",
     "4 - Main Notes/Enumerate().md",
     "5 - Temp Notes/TEMP Lógica de programação e algorítmos.md",
@@ -188,10 +204,8 @@
     "5 - Temp Notes/TEMP DS.md",
     "4 - Main Notes/Modelo de Dados Relacional.md",
     "4 - Main Notes/T-statistics.md",
-    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
     "4 - Main Notes/Projeto de Bancos de Dados.md",
     "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
-    "4 - Main Notes/Dados e informação.md",
     "Files/Pasted image 20250203002303.png",
     "Files/Pasted image 20250203002038.png",
     "Files/Pasted image 20250203001306.png",
