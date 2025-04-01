@@ -1,1 +1,0 @@
-+ Procurar saber sobre a lib ```glob``` 
