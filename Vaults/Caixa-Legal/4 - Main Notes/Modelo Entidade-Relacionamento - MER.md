@@ -4,7 +4,7 @@ Tags:[[Banco de Dados]], [[Uninter]]
 
 # Modelo Entidade-Relacionamento - MER
 
-O [[Modelo Entidade-Relacionamento - MER]] tem como principal propósito estruturar as **Regras de Negócio** afim de torná-las mais viáveis para os parâmetros dos [[Sistemas de Gerenciamento de Banco de Dados - Sgbd]]. Esse modelo consiste tanto na criação das relações entre os dados como na caracterização deles afim de transformá-los em informação. É importante notar que esse modelo é muito semelhante à Programação Orientada a Objetos. Para começar é preciso entender sobre o conceito de **Entidades**
+O [[Modelo Entidade-Relacionamento - MER]] tem como principal objetivo estruturar as **Regras de Negócio** afim de torná-las mais viáveis para os parâmetros dos [[Sistemas de Gerenciamento de Banco de Dados - Sgbd]]. Esse modelo consiste tanto na criação das relações entre os dados como na caracterização deles afim de transformá-los em informação. É importante notar que esse modelo é muito semelhante à Programação Orientada a Objetos. Para começar é preciso entender sobre o conceito de **Entidades**
 
 # Entidades
 
