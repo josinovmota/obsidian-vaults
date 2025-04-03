@@ -11,12 +11,24 @@
             "id": "d4bd50a26aafee99",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files/Pasted image 20250131083920.png"
+                "file": "5 - Temp Notes/TEMP Pré-Cálculo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250131083920"
+              "icon": "lucide-file",
+              "title": "TEMP Pré-Cálculo"
             }
           }
         ]
@@ -167,6 +179,7 @@
   },
   "active": "d4bd50a26aafee99",
   "lastOpenFiles": [
+    "Files/Pasted image 20250131083920.png",
     "Files/Pasted image 20250131083531.png",
     "5 - Temp Notes/TEMP Pré-Cálculo.md",
     "5 - Temp Notes/TEMP TODO.md",
@@ -198,7 +211,6 @@
     "Files/Pasted image 20250203002038.png",
     "Files/Pasted image 20250203001306.png",
     "Files/Pasted image 20250131090112.png",
-    "Files/Pasted image 20250131083920.png",
     "Files/Pasted image 20250131083729.png",
     "Files/Pasted image 20250131083522.png",
     "Files/Pasted image 20250131080315.png",
