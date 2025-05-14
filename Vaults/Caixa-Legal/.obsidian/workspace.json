@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Temp Notes/TEMP Pré-Cálculo.md",
+                "file": "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TEMP Pré-Cálculo"
+              "title": "SSH Key Setup ( Windows 11 )"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,33 +180,35 @@
   },
   "active": "d4bd50a26aafee99",
   "lastOpenFiles": [
-    "Files/Pasted image 20250131083920.png",
-    "Files/Pasted image 20250131083531.png",
+    "4 - Main Notes/Função Linear(1 grau).md",
+    "Files/Pasted image 20250514171215.png",
+    "Files/Pasted image 20250514171043.png",
+    "4 - Main Notes/Fix Ubuntu Clock DualBoot.md",
+    "4 - Main Notes/Groupby().md",
+    "4 - Main Notes/Enumerate().md",
+    "4 - Main Notes/F-statistics.md",
+    "Pré-Cálculo.md",
+    "Math.md",
+    "6 - Tags/Uninter.md",
+    "4 - Main Notes/Bias.md",
+    "4 - Main Notes/Inference.md",
+    "4 - Main Notes/Least Squares.md",
+    "4 - Main Notes/Mean Squared Error - MSE.md",
+    "4 - Main Notes/Linux Installation.md",
+    "4 - Main Notes/Linux Commands.md",
+    "4 - Main Notes/Intercept and Slope in Linear Regression.md",
     "5 - Temp Notes/TEMP Pré-Cálculo.md",
     "5 - Temp Notes/TEMP TODO.md",
     "5 - Temp Notes/TEMP Linear Regression.md",
+    "6 - Tags/Pandas.md",
+    "6 - Tags/Statistical Learning.md",
+    "6 - Tags/Statistics.md",
+    "Files/Pasted image 20250131083920.png",
+    "Files/Pasted image 20250131083531.png",
     "5 - Temp Notes/TEMP Banco de Dados.md",
     "5 - Temp Notes/TEMP DS.md",
     "5 - Temp Notes/TEMP ISLP.md",
     "5 - Temp Notes/TEMP Lógica de programação e algorítmos.md",
-    "3 - Templates/Uninter - Pré-Cálculo.md",
-    "6 - Tags/Lógica de programação e Algorítmos.md",
-    "4 - Main Notes/Typing Training.md",
-    "4 - Main Notes/Projeto de Bancos de Dados.md",
-    "3 - Templates/Uninter - Banco de Dados.md",
-    "3 - Templates/Uninter - Lógica de Programação e Algorítmos.md",
-    "3 - Templates/Note Template.md",
-    "3 - Templates/Statistical Learning - ISLP Template.md",
-    "4 - Main Notes/SQL - MySql.md",
-    "6 - Tags/Banco de Dados.md",
-    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
-    "4 - Main Notes/Chaves - Mysql.md",
-    "4 - Main Notes/Unsupervised and Supervised Learning.md",
-    "4 - Main Notes/Non-Parametric Methods.md",
-    "4 - Main Notes/Modelo de Dados Relacional.md",
-    "4 - Main Notes/Bias Variance Trade-Off.md",
-    "4 - Main Notes/T-statistics.md",
-    "4 - Main Notes/RSE.md",
     "2 - Images Content/Untitled.canvas",
     "Files/Pasted image 20250203002303.png",
     "Files/Pasted image 20250203002038.png",
@@ -213,8 +216,6 @@
     "Files/Pasted image 20250131090112.png",
     "Files/Pasted image 20250131083729.png",
     "Files/Pasted image 20250131083522.png",
-    "Files/Pasted image 20250131080315.png",
-    "Files/Pasted image 20250131042826.png",
     "Templater",
     "Files",
     "6 - Tags",

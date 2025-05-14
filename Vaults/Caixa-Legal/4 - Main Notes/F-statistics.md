@@ -1,4 +1,4 @@
-R07-12-2024 09:15
+07-12-2024 09:15
 
 Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
 
