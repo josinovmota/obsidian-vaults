@@ -4,7 +4,7 @@ Tags:[[Pré-Cálculo]], [[Uninter]], [[Math]]
 
 # Função Linear(1 grau)
 
-A função do **1 grau** nada mais é do que um equação que tem sua estrutura por:
+A função do **1 grau** nada mais é do que uma igualdade que tem sua estrutura por:
 $$F(X) = ax + b$$
 Ela é chamada de função pois a equação ocorre em função da variável $x$ que pode tomar diversos valores
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
+                "file": "4 - Main Notes/Função Linear(1 grau).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSH Key Setup ( Windows 11 )"
+              "title": "Função Linear(1 grau)"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +179,7 @@
   },
   "active": "d4bd50a26aafee99",
   "lastOpenFiles": [
+    "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
     "4 - Main Notes/Função Linear(1 grau).md",
     "Files/Pasted image 20250514171215.png",
     "Files/Pasted image 20250514171043.png",
