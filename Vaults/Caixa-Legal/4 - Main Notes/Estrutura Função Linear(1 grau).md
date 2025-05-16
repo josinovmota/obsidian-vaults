@@ -2,7 +2,7 @@
 
 Tags:[[Pré-Cálculo]], [[Uninter]], [[Math]]
 
-# Função Linear(1 grau)
+# Estrutura Função Linear(1 grau)
 
 A função do **1 grau** nada mais é do que uma igualdade que tem sua estrutura por:
 $$F(X) = ax + b$$
