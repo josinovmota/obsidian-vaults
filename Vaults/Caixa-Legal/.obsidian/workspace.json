@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ec5a5f2fbf27d0",
+        "id": "0b68baa1772b0e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "8a362f7d808c0af8",
+            "id": "70c0037ee1e0a2a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Estrutura Função Quadrática(Segundo Grau).md",
+                "file": "5 - Temp Notes/TEMP Linear Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,13 +28,13 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estrutura Função Quadrática(Segundo Grau)"
+              "title": "TEMP Linear Regression"
             }
           }
         ]
       },
       {
-        "id": "8996e2c6b08a7b93",
+        "id": "e0ec5a5f2fbf27d0",
         "type": "tabs",
         "children": [
           {
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Temp Notes/TEMP Pré-Cálculo.md",
+                "file": "5 - Temp Notes/TEMP Calculo I.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TEMP Pré-Cálculo"
+              "title": "TEMP Calculo I"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +208,33 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8a362f7d808c0af8",
+  "active": "70c0037ee1e0a2a4",
   "lastOpenFiles": [
+    "5 - Temp Notes/TEMP Calculo I.md",
+    "4 - Main Notes/Tipos de Estatística.md",
+    "4 - Main Notes/Studying technique.md",
+    "4 - Main Notes/Tipos de dados - SQL.md",
+    "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
+    "4 - Main Notes/Non-Parametric Methods.md",
+    "4 - Main Notes/Linux Structure.md",
+    "4 - Main Notes/Median.md",
+    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
+    "5 - Temp Notes/TEMP TODO.md",
+    "4 - Main Notes/Funções Trigonométricas.md",
+    "3 - Templates/Uninter - Cálculo I.md",
+    "6 - Tags/Cálculo.md",
+    "3 - Templates/Uninter - Pré-Cálculo.md",
+    "6 - Tags/Estatística.md",
+    "3 - Templates/Uninter - Probabilidade e Estatística.md",
+    "5 - Temp Notes/TEMP Probabilidade e Estatística.md",
+    "4 - Main Notes/Standard Error.md",
+    "6 - Tags/Probabilidade.md",
+    "5 - Temp Notes/TEMP Pré-Cálculo.md",
+    "5 - Temp Notes/TEMP Linear Regression.md",
+    "4 - Main Notes/Estrutura Função Quadrática(Segundo Grau).md",
     "2 - Images Content/Pasted image 20250515181242.png",
     "2 - Images Content/Pasted image 20250515181020.png",
     "2 - Images Content/Pasted image 20250515180815.png",
-    "5 - Temp Notes/TEMP Pré-Cálculo.md",
-    "4 - Main Notes/Estrutura Função Quadrática(Segundo Grau).md",
     "2 - Images Content/Pasted image 20250515180339.png",
     "2 - Images Content/Pasted image 20250515180335.png",
     "2 - Images Content/Pasted image 20250515180239.png",
@@ -222,30 +243,10 @@
     "6 - Tags/Pré-Cálculo.md",
     "4 - Main Notes/F-statistics.md",
     "4 - Main Notes/Enumerate().md",
-    "4 - Main Notes/Data Preparation.md",
-    "4 - Main Notes/Data Science History.md",
-    "4 - Main Notes/Dados e informação.md",
-    "6 - Tags/Banco de Dados.md",
     "2 - Images Content/Files/Pasted image 20250128205801.png",
     "2 - Images Content/Files/Pasted image 20250127161734.png",
     "2 - Images Content/Files/Pasted image 20250127161314.png",
-    "2 - Images Content/Pasted image 20241114055645.png",
     "2 - Images Content/Untitled.canvas",
-    "6 - Tags/Math.md",
-    "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
-    "4 - Main Notes/Fix Ubuntu Clock DualBoot.md",
-    "4 - Main Notes/Groupby().md",
-    "6 - Tags/Uninter.md",
-    "4 - Main Notes/Bias.md",
-    "4 - Main Notes/Inference.md",
-    "4 - Main Notes/Least Squares.md",
-    "4 - Main Notes/Mean Squared Error - MSE.md",
-    "4 - Main Notes/Linux Installation.md",
-    "4 - Main Notes/Linux Commands.md",
-    "4 - Main Notes/Intercept and Slope in Linear Regression.md",
-    "5 - Temp Notes/TEMP TODO.md",
-    "5 - Temp Notes/TEMP Linear Regression.md",
-    "6 - Tags/Pandas.md",
     "Templater",
     "2 - Images Content/Files",
     "6 - Tags",

@@ -1,0 +1,1 @@
+rever - Funções Trigonométricas e Logarítmos(Aula do Asiático)
