@@ -1,6 +1,6 @@
 2024-10-02 10:22
 
-Tags:[[ISLP]], [[Statistics]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]]
 
 # Data Science History
 

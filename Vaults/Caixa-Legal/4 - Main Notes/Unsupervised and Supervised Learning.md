@@ -1,6 +1,6 @@
 2024-10-02 10:06
 
-Tags:[[ISLP]], [[Statistics]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]]
 
 # Supervised Learning
 

@@ -16,3 +16,6 @@ Estudei até as **2:30PM**, depois de ter procastinado muito. Acredito que parte
 
 # Passo 3
 Vou tentar estudar mais uma vez, ainda não to me sentindo cansado. Vai ser às **3:00PM**
+
+# Passo 2
+Consegui estudar das **3:00PM** até as **5:00PM**

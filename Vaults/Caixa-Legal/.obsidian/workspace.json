@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Diario de Terapia/Diarios/Dia 10.06.2025 - Terça-Feira.md",
+                "file": "5 - Temp Notes/TEMP Treinamento Tiberius.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dia 10.06.2025 - Terça-Feira"
+              "title": "TEMP Treinamento Tiberius"
+            }
+          },
+          {
+            "id": "cfa5bdec12081108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Main Notes/Deleteme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deleteme"
+            }
+          },
+          {
+            "id": "e4125d10457e296e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Temp Notes/TEMP TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEMP TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,56 +228,56 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "e4125d10457e296e",
   "lastOpenFiles": [
-    "7 - Diario de Terapia/Diarios/Dia 09.06.2025 - Segunda-Feira.md",
-    "7 - Diario de Terapia/Diarios/Dia 10.06.2025 - Terça-Feira.md",
-    "3 - Templates/Terapia - Diário de Terapia.md",
-    "7 - Diario de Terapia/How To Do.canvas",
-    "7 - Diario de Terapia/How To Do.md",
-    "7 - Diario de Terapia/Diarios",
-    "3 - Templates/Uninter - Probabilidade e Estatística.md",
-    "7 - Diario de Terapia",
-    "6 - Tags/Untitled",
-    "4 - Main Notes/Estrutura Função Linear(1 grau).md",
-    "4 - Main Notes/Null Hypothesis.md",
-    "4 - Main Notes/RSE.md",
-    "4 - Main Notes/Trimmed Mean.md",
-    "4 - Main Notes/Np.random.seed().md",
-    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
     "5 - Temp Notes/TEMP Linear Regression.md",
     "5 - Temp Notes/TEMP Calculo I.md",
-    "4 - Main Notes/Tipos de Estatística.md",
-    "4 - Main Notes/Studying technique.md",
-    "4 - Main Notes/Tipos de dados - SQL.md",
-    "4 - Main Notes/SSH Key Setup ( Windows 11 ).md",
-    "4 - Main Notes/Non-Parametric Methods.md",
-    "4 - Main Notes/Linux Structure.md",
-    "4 - Main Notes/Median.md",
+    "5 - Temp Notes/Mini treinamento de Git e Python.md",
+    "1 - Source Materials/A vida intelectual do Padre Sertillanges.md",
+    "1 - Source Materials/Data Science Phrases.md",
+    "1 - Source Materials/Clean code in Python - Second edition.md",
+    "5 - Temp Notes/TEMP Treinamento Tiberius.md",
+    "4 - Main Notes/Unit Tests - JUnit5.md",
     "5 - Temp Notes/TEMP TODO.md",
-    "4 - Main Notes/Funções Trigonométricas.md",
-    "3 - Templates/Uninter - Cálculo I.md",
-    "6 - Tags/Cálculo.md",
-    "3 - Templates/Uninter - Pré-Cálculo.md",
-    "6 - Tags/Estatística.md",
-    "2 - Images Content/Pasted image 20250515181242.png",
-    "2 - Images Content/Pasted image 20250515181020.png",
-    "2 - Images Content/Pasted image 20250515180815.png",
-    "2 - Images Content/Pasted image 20250515180339.png",
-    "2 - Images Content/Pasted image 20250515180335.png",
-    "2 - Images Content/Pasted image 20250515180239.png",
-    "2 - Images Content/Pasted image 20250515180118.png",
+    "4 - Main Notes/Deleteme.md",
+    "5 - Temp Notes/TEMP Probabilidade e Estatística.md",
+    "5 - Temp Notes/TEMP Pré-Cálculo.md",
+    "5 - Temp Notes/TODO Treinamento.md",
+    "1 - Source Materials/Tatulol - 2024.md",
+    "1 - Source Materials/Maniscraft.md",
+    "1 - Source Materials/Make it stick.md",
+    "1 - Source Materials/Jupyter Notebook.md",
+    "1 - Source Materials/Grandes pensadores.md",
+    "1 - Source Materials/Dicas do negão.md",
+    "3 - Templates/Clean Code Python.md",
+    "4 - Main Notes/ISLP.md",
+    "2 - Images Content/Files/Pasted image 20250129005724.png",
+    "2 - Images Content/Files/Pasted image 20250128232946.png",
+    "2 - Images Content/Files/Pasted image 20250128232436.png",
+    "2 - Images Content/Files/Pasted image 20250128214158.png",
+    "2 - Images Content/Files/Pasted image 20250128214016.png",
     "2 - Images Content/Files/Pasted image 20250128205801.png",
-    "2 - Images Content/Files/Pasted image 20250127161734.png",
-    "2 - Images Content/Files/Pasted image 20250127161314.png",
+    "4 - Main Notes/Trimmed Mean.md",
+    "4 - Main Notes/Null Hypothesis.md",
+    "4 - Main Notes/F-statistics.md",
+    "4 - Main Notes/Git Como limpar branches remotas apagadas.md",
+    "4 - Main Notes/Git Topics.md",
+    "2 - Images Content/Pasted image 20250813205551.png",
+    "2 - Images Content/Pasted image 20250813205508.png",
+    "2 - Images Content/Pasted image 20250813205329.png",
+    "2 - Images Content/Pasted image 20250813205218.png",
+    "9 - Resume",
+    "8 - Projetos GPT/Unconfirmed 825475.crdownload",
+    "8 - Projetos GPT/Unconfirmed 879362.crdownload",
+    "8 - Projetos GPT/Unconfirmed 741720.crdownload",
+    "8 - Projetos GPT/Unconfirmed 84540.crdownload",
+    "7 - Diario de Terapia/How To Do.canvas",
+    "7 - Diario de Terapia/Diarios",
+    "7 - Diario de Terapia",
+    "6 - Tags/Untitled",
     "2 - Images Content/Untitled.canvas",
     "Templater",
     "2 - Images Content/Files",
-    "6 - Tags",
-    "Untitled.canvas",
-    "6 - Main Notes",
-    "5 - Templates",
-    "4 - Images",
-    "3 - Tags"
+    "Untitled.canvas"
   ]
 }

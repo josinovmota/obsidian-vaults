@@ -1,0 +1,7 @@
+> They found out that when the position was random, the novices did as well as the chess masters; it was just a memorization exercise that anyone could do at reasonably the same level. When the positions followed a logical sequence that might occur in a real game (again, consistency, adhering to a pattern), then the chess masters performed exceedingly better than the rest. Now imagine this same situation applied to software. We, as the software engineer experts in Python, are like the chess masters in the previous example. When the code is structured randomly, without following any logic, or adhering to any standard, then it would be as difficult for us to spot mistakes as a novice developer.
+
+Segundo o estudo feito lá no xadrez, a galera que entende bem de xadrez (gm's e afins), ao bater o olho em posições comuns, que seguem certa lógica (no sentido de vir de uma tal abertura ou coisa do tipo) conseguem dar segmento a essa posição facilmente. Da mesma forma trazemos para o código. Ao ver um código já estruturado com boas convenções facilita bastante quando precisamos editá-lo ou upgradá-lo
+
+> This section is about documenting code in Python, from within the code. Good code is self-explanatory but is also well-documented. It is a good idea to explain what it is supposed to do (not how).
+
+O certo é explicar o que aquilo faz e não como aquilo faz tal coisa 

@@ -1,6 +1,6 @@
 2024-11-03 15:11
 
-Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # Standard Error
 

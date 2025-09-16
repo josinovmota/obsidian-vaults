@@ -1,9 +1,8 @@
 2024-10-01 09:22
 
-Tags:[[Windows 11]], [[Github]]
+Tags:[[Linux]], [[Github]]
 
-# SSH Key Setup ( Windows 11 )
-
+# SSH Key Setup
 
 ## Step 1 - Checar por chave SSH existente
 
@@ -27,9 +26,17 @@ Depois selecionar uma Passphrase segura para a chave
 
 Comando para copiar a SSH Key no Ctrl + C
 
-```bash
+Windows 11:
+```shell
 Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard
 ```
+
+Linux:
+
+```shell
+cat ~/.ssh/id_rsa.pub | xclip -sel copy
+```
+
 
 Após isso ir no Github > Settings > SSH and GPG Keys > New SSH Key
 e terminar o processo

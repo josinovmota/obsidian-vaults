@@ -1,6 +1,6 @@
 2024-10-03 09:56
 
-Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Input variables
 

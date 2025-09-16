@@ -1,6 +1,6 @@
 2024-10-08 13:37
 
-Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Mean Squared Error - MSE
 

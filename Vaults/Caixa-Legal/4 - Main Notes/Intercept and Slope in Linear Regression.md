@@ -1,6 +1,6 @@
 2024-11-01 10:33
 
-Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # Intercept and Slope
 

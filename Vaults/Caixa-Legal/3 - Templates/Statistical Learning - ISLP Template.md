@@ -1,6 +1,6 @@
 {{date}} {{time}}
 
-Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # {{Title}}
 

@@ -1,7 +1,7 @@
 
 2024-10-01 10:01
 
-Tags:[[ISLP]], [[Statistics]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]]
 
 # Standard Deviation
 

@@ -1,6 +1,6 @@
  05-12-2024 09:19
 
-Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # RSE
 

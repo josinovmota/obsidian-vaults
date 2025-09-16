@@ -1,6 +1,6 @@
 {{date}} {{time}}
 
-Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # {{Title}}
 

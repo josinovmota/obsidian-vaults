@@ -1,6 +1,6 @@
 2024-10-01 09:53
 
-Tags:[[ISLP]], [[Statistics]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]]
 
 # Outliers
 

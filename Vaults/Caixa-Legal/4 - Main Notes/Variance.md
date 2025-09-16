@@ -1,6 +1,6 @@
 2024-10-09 09:03
 
-Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Variance
 

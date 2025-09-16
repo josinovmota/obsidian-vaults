@@ -14,5 +14,12 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

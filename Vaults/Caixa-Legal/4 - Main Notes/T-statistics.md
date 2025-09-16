@@ -1,6 +1,6 @@
 2024-11-04 16:11
 
-Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # T-statistics
 

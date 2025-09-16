@@ -1,6 +1,6 @@
 2024-11-01 10:27
 
-Tags:[[ISLP]], [[Statistics]], [[Linear Regression]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # Least Squares
 

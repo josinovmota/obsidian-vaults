@@ -1,6 +1,6 @@
 2024-10-03 10:30
 
-Tags:[[ISLP]], [[Statistics]], [[Statistical Learning]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Statistical Learning]]
 
 # Prediction
 

@@ -1,6 +1,6 @@
 2024-09-26 09:52
 
-Tags:[[ISLP]], [[Statistics]]
+Tags:[[6 - Tags/ISLP]], [[Statistics]]
 
 # Trimmed Mean
 
