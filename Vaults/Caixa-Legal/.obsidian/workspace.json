@@ -11,10 +11,24 @@
             "id": "d570e2807af9b52b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "5 - Temp Notes/TEMP TODO.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEMP TODO"
             }
           }
         ]
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Temp Notes/TEMP Linear Regression.md",
+                "file": "5 - Temp Notes/TEMP TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TEMP Linear Regression"
+              "title": "Backlinks for TEMP TODO"
             }
           },
           {
@@ -175,12 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6972dc67a33f9f0e",
+  "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "Untitled.base",
     "5 - Temp Notes/TEMP Linear Regression.md",
     "5 - Temp Notes/TEMP TODO.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "5 - Temp Notes/TODO Treinamento.md",
     "5 - Temp Notes/TEMP Treinamento Tiberius.md",
     "5 - Temp Notes/TEMP Probabilidade e Estatística.md",
@@ -224,7 +238,6 @@
     "7 - Diario de Terapia",
     "6 - Tags/Untitled",
     "2 - Images Content/Untitled.canvas",
-    "Templater",
     "Untitled.canvas"
   ]
 }
