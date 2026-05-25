@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Deleteme.md",
+                "file": "5 - Temp Notes/TEMP Linear Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deleteme"
-            }
-          },
-          {
-            "id": "e4125d10457e296e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Temp Notes/TEMP TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TEMP TODO"
+              "title": "TEMP Linear Regression"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,14 +182,23 @@
               "icon": "lucide-list",
               "title": "Outline of TEMP Linear Regression"
             }
+          },
+          {
+            "id": "483b14f6751ca6a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,53 +210,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4125d10457e296e",
+  "active": "966019167f709f63",
   "lastOpenFiles": [
-    "5 - Temp Notes/TEMP Linear Regression.md",
-    "5 - Temp Notes/TEMP Calculo I.md",
-    "5 - Temp Notes/Mini treinamento de Git e Python.md",
-    "1 - Source Materials/A vida intelectual do Padre Sertillanges.md",
-    "1 - Source Materials/Data Science Phrases.md",
-    "1 - Source Materials/Clean code in Python - Second edition.md",
-    "5 - Temp Notes/TEMP Treinamento Tiberius.md",
-    "4 - Main Notes/Unit Tests - JUnit5.md",
     "5 - Temp Notes/TEMP TODO.md",
-    "4 - Main Notes/Deleteme.md",
+    "5 - Temp Notes/TEMP Linear Regression.md",
+    "5 - Temp Notes/TODO Treinamento.md",
+    "5 - Temp Notes/TEMP Treinamento Tiberius.md",
     "5 - Temp Notes/TEMP Probabilidade e Estatística.md",
     "5 - Temp Notes/TEMP Pré-Cálculo.md",
-    "5 - Temp Notes/TODO Treinamento.md",
-    "1 - Source Materials/Tatulol - 2024.md",
-    "1 - Source Materials/Maniscraft.md",
-    "1 - Source Materials/Make it stick.md",
-    "1 - Source Materials/Jupyter Notebook.md",
-    "1 - Source Materials/Grandes pensadores.md",
-    "1 - Source Materials/Dicas do negão.md",
-    "3 - Templates/Clean Code Python.md",
-    "4 - Main Notes/ISLP.md",
+    "5 - Temp Notes/TEMP Calculo I.md",
+    "5 - Temp Notes/Mini treinamento de Git e Python.md",
+    "6 - Tags/Uninter.md",
+    "8 - Projetos GPT/Mini Projeto GPT.md",
+    "7 - Diario de Terapia/How To Do.canvas",
+    "6 - Tags/Treinamento Tiberius.md",
+    "6 - Tags/Statistics.md",
+    "6 - Tags/Statistical Learning.md",
+    "6 - Tags/SQL.md",
+    "6 - Tags/Python.md",
+    "6 - Tags/Programming.md",
+    "6 - Tags/Probabilidade.md",
+    "6 - Tags/Pré-Cálculo.md",
+    "6 - Tags/PC QOL.md",
+    "6 - Tags/Pandas.md",
+    "6 - Tags/Math.md",
+    "6 - Tags/Lógica de programação e Algorítmos.md",
+    "6 - Tags/Linear Regression.md",
+    "6 - Tags/Java.md",
+    "6 - Tags/ISLP.md",
+    "6 - Tags/Git.md",
+    "2 - Images Content/Pasted image 20240530092123.png",
+    "2 - Images Content/Pasted image 20241001095603.png",
     "2 - Images Content/Files/Pasted image 20250129005724.png",
     "2 - Images Content/Files/Pasted image 20250128232946.png",
     "2 - Images Content/Files/Pasted image 20250128232436.png",
     "2 - Images Content/Files/Pasted image 20250128214158.png",
     "2 - Images Content/Files/Pasted image 20250128214016.png",
     "2 - Images Content/Files/Pasted image 20250128205801.png",
-    "4 - Main Notes/Trimmed Mean.md",
-    "4 - Main Notes/Null Hypothesis.md",
-    "4 - Main Notes/F-statistics.md",
-    "4 - Main Notes/Git Como limpar branches remotas apagadas.md",
-    "4 - Main Notes/Git Topics.md",
     "2 - Images Content/Pasted image 20250813205551.png",
     "2 - Images Content/Pasted image 20250813205508.png",
-    "2 - Images Content/Pasted image 20250813205329.png",
-    "2 - Images Content/Pasted image 20250813205218.png",
     "9 - Resume",
     "8 - Projetos GPT/Unconfirmed 825475.crdownload",
     "8 - Projetos GPT/Unconfirmed 879362.crdownload",
     "8 - Projetos GPT/Unconfirmed 741720.crdownload",
     "8 - Projetos GPT/Unconfirmed 84540.crdownload",
-    "7 - Diario de Terapia/How To Do.canvas",
     "7 - Diario de Terapia/Diarios",
     "7 - Diario de Terapia",
     "6 - Tags/Untitled",
