@@ -177,7 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Temp Notes/TEMP Linear Regression.md"
+                "file": "5 - Temp Notes/TEMP Linear Regression.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of TEMP Linear Regression"
@@ -194,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "966019167f709f63",
+  "active": "b2d8ea335bfa83b4",
   "lastOpenFiles": [
     "5 - Temp Notes/TEMP TODO.md",
     "5 - Temp Notes/TEMP Linear Regression.md",
