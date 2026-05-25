@@ -10,7 +10,9 @@ Tomar responsabilidade sobre o que você faz abre espaço para mais um ponto, qu
 
 >One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment—a sense that the powers that be don’t care about the building. So another window gets broken. People start littering. Graffiti appears. Serious structural damage begins. In a relatively short span of time, the building becomes damaged beyond the owner’s desire to fix it, and the sense of abandonment becomes reality.
 
-Como o texto fala, um pequeno problema pode gerar um ambiente de descaso. É muito importa
+Como o texto fala, um pequeno problema pode gerar um ambiente de descaso. Ambiente esse que é terra fértil para vários outros problemas. JUST FIX BROKEN WINDOWS!!!!!
+
+
 
 
 
