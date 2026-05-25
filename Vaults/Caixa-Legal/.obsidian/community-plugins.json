@@ -2,5 +2,7 @@
   "dataview",
   "cmenu-plugin",
   "obsidian-wrap-with-shortcuts",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-icon-folder",
+  "file-explorer-note-count"
 ]
