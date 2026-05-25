@@ -9,3 +9,5 @@ Tags:[[Programming]], [[Clean code]]
 Tomar responsabilidade sobre o que você faz abre espaço para mais um ponto, que é o de lidar com os seus atos. Antes de chegar e falar "Isso aqui não tem como ser resolvido", olhar se existe alguma forma de resolver. Se não existir, trazer uma forma de resolver, nem que seja recomeçar do zero e explicar os benefícios de recomeçar do zero.
 
 
+
+
