@@ -12,6 +12,10 @@ Tomar responsabilidade sobre o que você faz abre espaço para mais um ponto, qu
 
 Como o texto fala, um pequeno problema pode gerar um ambiente de descaso. Ambiente esse que é terra fértil para vários outros problemas. JUST FIX BROKEN WINDOWS!!!!!
 
+>Don’t spoil a perfectly good program by overembellishment and overrefinement.
+
+Eu já li em algum livro, não tenho certeza se nesse aqui, sobre
+
 
 
 
