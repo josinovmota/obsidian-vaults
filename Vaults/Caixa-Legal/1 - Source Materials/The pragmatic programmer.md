@@ -14,7 +14,9 @@ Como o texto fala, um pequeno problema pode gerar um ambiente de descaso. Ambien
 
 >Don’t spoil a perfectly good program by overembellishment and overrefinement.
 
-Eu já li em algum livro, não tenho certeza se nesse aqui, sobre
+Eu já li em algum livro, não tenho certeza se nesse aqui, sobre uma atualização de um software que não agradou ao público. Aconteceu que as pessoas estavam, por anos, acostumadas com um layout no tal programa e, do nada, mudaram o layout. Como essa parte do livro fala, não estrague algo perfeitamente bom com esse super-embelezamento
+
+
 
 
 
