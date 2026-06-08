@@ -48,3 +48,4 @@ Muito importante avaliar o melhor momento agir. Acho que isso linka bem com a id
 
 Huge tip. Ouvir os outros é um passo super importante para ser ouvido, principalmente quando você ouve com atenção, faz perguntas e da valor ao que está sendo dito
 
+![[Pasted image 20260608084515.png]]
