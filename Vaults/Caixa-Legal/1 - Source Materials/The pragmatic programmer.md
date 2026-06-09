@@ -48,4 +48,12 @@ Muito importante avaliar o melhor momento agir. Acho que isso linka bem com a id
 
 Huge tip. Ouvir os outros é um passo super importante para ser ouvido, principalmente quando você ouve com atenção, faz perguntas e da valor ao que está sendo dito
 
-![[Pasted image 20260608084515.png]]
+> Dry principle
+
+O dry principle fala daquilo que já vi em muito códigos por aí. Uma função `main()` que chama outras funções, cada uma com sua própria responsabilidade. A ideia por trás disso é que caso você precise fazer manutenção em algo, vai saber exatamente aonde ele está e não precisará mudar ao longo de todo o código. Também tem a ideia de que se um objeto é fruto de outros objetos, que ele seja calculado na sua criação, como mostra o exemplo à seguir:
+
+![[Pasted image 20260609123811.png]]
+
+> Don’t rely on the properties of things you can’t control
+
+O livro ainda falando sobre o conceito de `DRY`, diz que você deve ter cuidado com libs, apis, e afins que você não controla de ponta à ponta. Um caso recente foi o dos programadores que quebraram o `math.random()`. Certo que à fim de poupar trabalho, às vezes temos que confiar em certas libs, mas é importante estar atento a isso
