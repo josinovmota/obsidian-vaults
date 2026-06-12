@@ -60,4 +60,13 @@ O livro ainda falando sobre o conceito de `DRY`, diz que você deve ter cuidado 
 
 > Tracer bullet development
 
-Agora o livro introduz o conceito de `tracer bullet development` que nada mais é do que fazer um esqueleto do seu projeto final afim de 
+Agora o livro introduz o conceito de `tracer bullet development` que nada mais é do que fazer um esqueleto do seu projeto final afim de reunir feedbacks, ideias, etc. Fazer esse esqueleto, por mais simples que seja, também ajuda a conectar as diversas tecnologias usadas no projeto, como API, Libraries, etc. Ter elas conectadas e sob controle (`DRY`) é sempre muito importante.
+
+> They won’t be disappointed by a lack of functionality; they’ll be ecstatic to see some visible progress toward their system. They also get to contribute as the project progresses
+
+Fazer o esqueleto ( bullet tracer development ), como eu disse anteriormente, pode trazer feedbacks, insights e ser um propulsor para o projeto. Como o livro cita também, quando foram criar os primeiros carros, por ser algo muito caro, fizeram projetos com madeira, argila, para chegar num design final. E isso mais uma vez linka com a história da `stone soup`, uma vez que os usuários veem a sopa de pedras ( esqueleto ), vão cada vez mais trazendo ingredientes
+
+> You use the technique in situations where you’re not 100% certain of where you’re going ( tracer bullet )
+
+Existe uma grande diferença entre prototipar e fazer o bullet tracer. Enquanto no bullet tracer fazemos um esqueleto que condiz com o design final, ao prototipar fazemos algo que será apagado, mas que ainda assim ajuda a entender o design final
+
