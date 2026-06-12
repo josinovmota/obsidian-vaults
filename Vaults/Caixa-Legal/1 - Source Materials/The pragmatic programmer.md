@@ -57,3 +57,7 @@ O dry principle fala daquilo que já vi em muito códigos por aí. Uma função 
 > Don’t rely on the properties of things you can’t control
 
 O livro ainda falando sobre o conceito de `DRY`, diz que você deve ter cuidado com libs, apis, e afins que você não controla de ponta à ponta. Um caso recente foi o dos programadores que quebraram o `math.random()`. Certo que à fim de poupar trabalho, às vezes temos que confiar em certas libs, mas é importante estar atento a isso
+
+> Tracer bullet development
+
+Agora o livro introduz o conceito de `tracer bullet development` que nada mais é do que fazer um esqueleto do seu projeto final afim de 
