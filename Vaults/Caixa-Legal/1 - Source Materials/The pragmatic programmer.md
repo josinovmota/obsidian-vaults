@@ -69,4 +69,3 @@ Fazer o esqueleto ( bullet tracer development ), como eu disse anteriormente, po
 > You use the technique in situations where you’re not 100% certain of where you’re going ( tracer bullet )
 
 Existe uma grande diferença entre prototipar e fazer o bullet tracer. Enquanto no bullet tracer fazemos um esqueleto que condiz com o design final, ao prototipar fazemos algo que será apagado, mas que ainda assim ajuda a entender o design final
-
