@@ -69,3 +69,16 @@ Fazer o esqueleto ( bullet tracer development ), como eu disse anteriormente, po
 > You use the technique in situations where you’re not 100% certain of where you’re going ( tracer bullet )
 
 Existe uma grande diferença entre prototipar e fazer o bullet tracer. Enquanto no bullet tracer fazemos um esqueleto que condiz com o design final, ao prototipar fazemos algo que será apagado, mas que ainda assim ajuda a entender o design final
+
+> What sorts of things might you choose to investigate with a prototype? Anything that carries risk. Anything that hasn’t been tried before
+
+Como explicado anteriormente, o `bullet tracer` é o esqueleto do projeto, mas que reflete muito mais os projeto final do que o protótipo. Com isso, é fácil de perceber que no protótipo podemos nos arriscar muito mais e tentar coisas novas
+
+> Remind them that you can build a great prototype of a new car out of balsa wood and duct tape, but you wouldn’t try to drive it in rush-hour traffic!
+
+Como o livro cita, é importante ter cuidado com a reação do público aos seus protótipos. Como dito acima, é muito fácil fazer o "esqueleto" de um carro com madeira ou fita, mas esse esqueleto não consegue ser testado numa rua movimentada. O que acontece, muitas vezes, é as pessoas acharem que o protótipo já serve para ser entregue ao público
+
+> Internal domain language vs External domain language
+
+É legal saber a diferença das domain languages para conseguir se situar melhor. Enquanto a internal é criada na própria linguagem de programação do projeto, o external é criada em outra. Mas essa não é a única diferença. Não basta só criar uma domain language em outra linguagem de programação, você também vai precisar criar um tradutor, o que traz ainda mais complexidade para o código como um todo
+
