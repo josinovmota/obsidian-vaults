@@ -5,6 +5,3 @@ Tags:
 # {{Title}}
 
 
-
-# References
-

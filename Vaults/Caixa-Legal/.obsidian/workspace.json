@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/The pragmatic programmer.md",
+                "file": "1 - Source Materials/Workbook 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The pragmatic programmer"
+              "title": "Workbook 7"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Source Materials/The pragmatic programmer.md",
+                "file": "1 - Source Materials/Workbook 7.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The pragmatic programmer"
+              "title": "Backlinks for Workbook 7"
             }
           },
           {
@@ -191,12 +191,14 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "3 - Templates/Note Template.md",
+    "1 - Source Materials/Workbook 7.md",
+    "1 - Source Materials/The pragmatic programmer.md",
     "2 - Images Content/Pasted image 20260617164904.png",
     "2 - Images Content/Pasted image 20260617161731.png",
     "2 - Images Content/Pasted image 20260609123811.png",
     "2 - Images Content/Pasted image 20260608084515.png",
     "4 - Main Notes/One shortcut or plugin each day.md",
-    "1 - Source Materials/The pragmatic programmer.md",
     "1 - Source Materials/Clean code in Python - Second edition.md",
     "1 - Source Materials/Grandes pensadores.md",
     "1 - Source Materials/Data Science Phrases.md",
@@ -222,14 +224,12 @@
     "6 - Tags/Statistics.md",
     "6 - Tags/Statistical Learning.md",
     "6 - Tags/SQL.md",
-    "6 - Tags/Python.md",
     "2 - Images Content/Pasted image 20240530092123.png",
     "2 - Images Content/Pasted image 20241001095603.png",
     "2 - Images Content/Files/Pasted image 20250129005724.png",
     "2 - Images Content/Files/Pasted image 20250128232946.png",
     "2 - Images Content/Files/Pasted image 20250128232436.png",
     "2 - Images Content/Files/Pasted image 20250128214158.png",
-    "2 - Images Content/Files/Pasted image 20250128214016.png",
     "9 - Resume",
     "8 - Projetos GPT/Unconfirmed 825475.crdownload",
     "8 - Projetos GPT/Unconfirmed 879362.crdownload",
