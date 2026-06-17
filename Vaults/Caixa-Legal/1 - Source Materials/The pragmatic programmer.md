@@ -82,3 +82,15 @@ Como o livro cita, é importante ter cuidado com a reação do público aos seus
 
 É legal saber a diferença das domain languages para conseguir se situar melhor. Enquanto a internal é criada na própria linguagem de programação do projeto, o external é criada em outra. Mas essa não é a única diferença. Não basta só criar uma domain language em outra linguagem de programação, você também vai precisar criar um tradutor, o que traz ainda mais complexidade para o código como um todo
 
+> Always be on the lookout for better ways of doing things. If you come across a situation where you feel your current tools can’t cut it, make a note to look for something different or more powerful that would have helped
+
+Sempre lembrando que a busca pela ferramenta *perfeita* pode custar muito tempo e é sabido que tempo é dinheiro. Já ouvi muito sobre isso de buscar apenas quando precisar e acho que é a escolha mais importante. Não adianta baixar uma ferramenta com 3000 opções sendo que você só está usando uma. Também vale ressaltar que existem ferramentas 100% customizáveis, com plugins, etc, em que você pode até adicionar suas próprias ferramentas e, quem sabe, contribuir com um open-source da vida
+
+> A benefit of GUIs is WYSIWYG — what you see is what you get. The disadvantage is WYSIAYG — what you see is all you get.
+
+Trazendo pra mesma ideia anterior, uma interface que não é customizável tem o ponto bom de você conseguir fazer aquilo que consegue ver, mas o ponto ruim de só poder fazer aquilo que consegue ver. Às vezes ideias de uma `hotkey` ou `alias` pode acabar tornando seu ambiente de trabalho/estudos ainda melhor e mais produtivo
+
+> Image:
+
+![[Pasted image 20260617161731.png]]
+
