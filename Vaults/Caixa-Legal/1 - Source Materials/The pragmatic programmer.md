@@ -94,3 +94,7 @@ Trazendo pra mesma ideia anterior, uma interface que não é customizável tem o
 
 ![[Pasted image 20260617161731.png]]
 
+> Image:
+
+![[Pasted image 20260617164904.png]]
+
