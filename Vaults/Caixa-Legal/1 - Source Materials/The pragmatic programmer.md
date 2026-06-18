@@ -94,7 +94,32 @@ Trazendo pra mesma ideia anterior, uma interface que não é customizável tem o
 
 ![[Pasted image 20260617161731.png]]
 
+Daqui eu só consegui extrair a hotkey `ctrl + g` no vscode. Ela te coloca na exata linha que você escrever na caixa de texto que aparece. A maioria das outras coisas eu já uso / não faz tanto sentido usar no meu workflow
+
 > Image:
 
 ![[Pasted image 20260617164904.png]]
+
+TODO
+
+> Somewhat more ambitiously, if you can’t find a plugin or extension that does what you want, write one. Andy is fond of making custom local file-based Wiki plugins for his favorite editors. If you can’t find it, build it!
+
+Lembrar sempre que existem muitos apps/plugins customizáveis e mesmo que a funcionalidade não exista, talvez você possa criá-la.
+
+> Progress, far from consisting in change, depends on retentiveness. Those who cannot remember the past are condemned to repeat it.
+
+Frase bem bonita que reforça a idea de aprendizado por reforço. Tudo aquilo que não faz parte do seu dia-a-dia ou não é usado constantemente fica mais difícil de lembrar
+
+> Teams that do this are constantly messing up each other’s work, losing changes, breaking builds, and getting into fist fights in the car park
+
+Aqui estava sendo falado sobre ferramentas de versionamento ( Ainda preciso dar uma olhada mais à fundo )
+
+> You may need to interview the user who reported the bug in order to gather more data than you were initially given. Artificial tests (such as the programmer’s single brush stroke from bottom to top) don’t exercise enough of an application. You must brutally test both boundary conditions and realistic end-user usage patterns. You need to do this systematically (see Ruthless and Continuous Testing).
+
+Parte ultra giga importante. Lembro muito bem quando eu ia reportar um bug em um jogo e não dava detalhes importantes no processo. Imagina para o dev ter que reproduzir tal coisa quando a pessoa escreve "Apertei todos os botões e não toquei a bola pro goleiro no kick off". É interessante saber o outro lado da moeda
+
+> You’ve been there. Your program works fine with all the test data, and survives its first week in production with honor. Then it suddenly crashes when fed a particular dataset.
+
+Peguei essa frase pois lembra um pouco a questão da Variance. Quando algo performa bem com os dados de teste, mas ao ser apresentado novos dados, acaba não performando tão bem
+
 
