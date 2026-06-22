@@ -122,4 +122,28 @@ Parte ultra giga importante. Lembro muito bem quando eu ia reportar um bug em um
 
 Peguei essa frase pois lembra um pouco a questão da Variance. Quando algo performa bem com os dados de teste, mas ao ser apresentado novos dados, acaba não performando tão bem
 
+> THE BINARY CHOP
+
+O livro fala sobre Binary Chop e eu lembrei de quando eu fazia isso mesmo sem saber o que é binary chop. Não é um big mérito, mas é uma boa forma de debuggar. Às vezes da pra saber até aonde o programa rodou, afim de achar o erro. Também da pra ver valores entre as execuções do programa ( mas sempre lembrando que o debug também faz isso )
+
+> You’re rewriting an application that used to use YAML as a configuration language. Your company has now standardized on JSON, so you have a bunch of .yaml files that need to be turned into .json. Write a script that takes a directory and converts each .yaml file into a corresponding .json file (so database.yaml becomes database.json, and the contents are valid JSON).
+
+TODO
+
+>  Your team initially chose to use camelCase names for variables, but then changed their collective mind and switched to snake_case. Write a script that scans all the source files for camelCase names and reports on them.
+
+TODO
+
+> It acts as a kind of rubber duck
+
+Nessa parte o livro fala sobre algo que eu reconheço bem no meu jeito de estudar, que é ter alguém para te ouvir. Certo que eu não tenho especificamente alguém, mas o Obsidian age como um rubber duck e também me deixa fazer o recall dos meus conhecimentos a qualquer momento
+
+> But Pragmatic Programmers take this a step further. They don’t trust themselves, either.
+
+Coisa que pouco pensamos mas muito importa. Às vezes temos que buscar ter absoluta certeza que o problema não é nós mesmos
+
+> Preconditions , Postconditions
+
+Bertrand Meyer criou um design pattern chamado Design By Contract. Ele é uma forma segura, mas não infalível, de criar uma aplicação/programa/etc de modo a minimizar os erros. Uma das primeira idéias são as pré-condições. Elas falam que primeiro é necessário que o programa tenha "leis" que definam bem os limites que devem ser pedidos a ele. Trazendo mais para um exemplo do dia-a-dia, podemos falar sobre um restaurante. Ao entrar no restaurante e fazer um pedido, você não pode pediu um "Dragão frito", por exemplo, e achar que eles devem te entregar. Já as post-conditions falam sobre o que o programa vai entregar. Voltando ao exemplo do restaurante, se você pedir um macarrão num restaurante que vende macarrão, eles devem te entregar um macarrão. A ideia parece simples, mas como dito anteriormente, às vezes o over-embellishment pode acabar dando mais espaço a problemas e erros
+
 
