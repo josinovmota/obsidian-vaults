@@ -11,24 +11,10 @@
             "id": "d570e2807af9b52b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Source Materials/The pragmatic programmer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The pragmatic programmer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Source Materials/The pragmatic programmer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The pragmatic programmer"
+              "title": "Backlinks"
             }
           },
           {
@@ -189,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "966019167f709f63",
+  "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "1 - Source Materials/Jupyter Notebook.md",
+    "1 - Source Materials/Effective Python.md",
+    "1 - Source Materials/The pragmatic programmer.md",
     "2 - Images Content/Pasted image 20260622085350.png",
     "4 - Main Notes/Trimmed Mean.md",
-    "1 - Source Materials/The pragmatic programmer.md",
     "1 - Source Materials/Workbook 7.md",
     "3 - Templates/Note Template.md",
     "2 - Images Content/Pasted image 20260617164904.png",
@@ -208,7 +195,6 @@
     "1 - Source Materials/A vida intelectual do Padre Sertillanges.md",
     "1 - Source Materials/Tatulol - 2024.md",
     "1 - Source Materials/Dicas do negão.md",
-    "1 - Source Materials/Jupyter Notebook.md",
     "5 - Temp Notes/TEMP TODO.md",
     "5 - Temp Notes/TEMP Linear Regression.md",
     "Untitled 1.base",
@@ -229,7 +215,6 @@
     "2 - Images Content/Files/Pasted image 20250129005724.png",
     "2 - Images Content/Files/Pasted image 20250128232946.png",
     "2 - Images Content/Files/Pasted image 20250128232436.png",
-    "2 - Images Content/Files/Pasted image 20250128214158.png",
     "9 - Resume",
     "8 - Projetos GPT/Unconfirmed 825475.crdownload",
     "8 - Projetos GPT/Unconfirmed 879362.crdownload",

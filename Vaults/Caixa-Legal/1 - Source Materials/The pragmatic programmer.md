@@ -152,3 +152,7 @@ Bertrand Meyer criou um design pattern chamado Design By Contract. Ele é uma fo
 
 Na época do java eu tive um grande problema com essa questão de tratar excessões. Naquele momento, com esse exemplo acima em mãos, eu teria entendindo muito melhor a ideia de "subir uma excessão" ou de "tratar todas as excessões em um lugar só"
 
+
+---
+
+Aqui termina a minha jornada no The Pragmatic Programmer ( Talvez por agora ). O livro começou a introduzir conceitos que não fazem parte do meu dia-a-dia ou eu nunca vi. Como é um livro não-extremamente-técnico, eu acredito que ele deve ser lido ao longo do tempo e não de uma vez só
