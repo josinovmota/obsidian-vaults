@@ -11,10 +11,24 @@
             "id": "d570e2807af9b52b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Source Materials/Effective Python.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Effective Python"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "effect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Source Materials/Effective Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Effective Python"
             }
           },
           {
@@ -176,8 +192,10 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "1 - Source Materials/Jupyter Notebook.md",
+    "4 - Main Notes/Enumerate().md",
     "1 - Source Materials/Effective Python.md",
+    "2 - Images Content/Pasted image 20260624091927.png",
+    "1 - Source Materials/Jupyter Notebook.md",
     "1 - Source Materials/The pragmatic programmer.md",
     "2 - Images Content/Pasted image 20260622085350.png",
     "4 - Main Notes/Trimmed Mean.md",
@@ -209,12 +227,10 @@
     "8 - Projetos GPT/Mini Projeto GPT.md",
     "7 - Diario de Terapia/How To Do.canvas",
     "6 - Tags/Treinamento Tiberius.md",
-    "6 - Tags/Statistics.md",
     "2 - Images Content/Pasted image 20240530092123.png",
     "2 - Images Content/Pasted image 20241001095603.png",
     "2 - Images Content/Files/Pasted image 20250129005724.png",
     "2 - Images Content/Files/Pasted image 20250128232946.png",
-    "2 - Images Content/Files/Pasted image 20250128232436.png",
     "9 - Resume",
     "8 - Projetos GPT/Unconfirmed 825475.crdownload",
     "8 - Projetos GPT/Unconfirmed 879362.crdownload",

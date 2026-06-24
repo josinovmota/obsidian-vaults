@@ -4,4 +4,4 @@ Tags: [[Python]]
 
 # Effective Python
 
-
+![[Pasted image 20260624091927.png]]
