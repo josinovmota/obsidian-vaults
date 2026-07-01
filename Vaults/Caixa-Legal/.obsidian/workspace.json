@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/Effective Python.md",
+                "file": "4 - Main Notes/Dados e informação.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Effective Python"
+              "title": "Dados e informação"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effect",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Source Materials/Effective Python.md",
+                "file": "4 - Main Notes/Dados e informação.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Effective Python"
+              "title": "Backlinks for Dados e informação"
             }
           },
           {
@@ -172,7 +171,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,8 +192,8 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "4 - Main Notes/Enumerate().md",
     "1 - Source Materials/Effective Python.md",
+    "4 - Main Notes/Enumerate().md",
     "2 - Images Content/Pasted image 20260624091927.png",
     "1 - Source Materials/Jupyter Notebook.md",
     "1 - Source Materials/The pragmatic programmer.md",
