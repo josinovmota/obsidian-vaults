@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Dados e informação.md",
+                "file": "1 - Source Materials/The pragmatic programmer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dados e informação"
+              "title": "The pragmatic programmer"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "966019167f709f63",
   "lastOpenFiles": [
     "1 - Source Materials/Effective Python.md",
+    "4 - Main Notes/Dados e informação.md",
     "4 - Main Notes/Enumerate().md",
     "2 - Images Content/Pasted image 20260624091927.png",
     "1 - Source Materials/Jupyter Notebook.md",
@@ -226,7 +228,6 @@
     "6 - Tags/Uninter.md",
     "8 - Projetos GPT/Mini Projeto GPT.md",
     "7 - Diario de Terapia/How To Do.canvas",
-    "6 - Tags/Treinamento Tiberius.md",
     "2 - Images Content/Pasted image 20240530092123.png",
     "2 - Images Content/Pasted image 20241001095603.png",
     "2 - Images Content/Files/Pasted image 20250129005724.png",
