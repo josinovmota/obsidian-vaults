@@ -14,9 +14,10 @@ Achei legal saber isso pois os erros no python acabam sendo exclusivos do compil
 
 > As soon as your expressions get complicated, it’s time to consider splitting them into smaller pieces — such as intermediate variables — and moving logic into helper functions
 
+Ideia boa quando você está fazendo um super cálculo matemático, por exemplo. No lugar de comentar "Isso faz tal coisa", encapsular ele em uma função com um nome que descreve o que está sendo feito
 
-
-
-
-
+> Image
 ![[Pasted image 20260624091927.png]]
+
+Bem interessante essa ideia de unpacking de sets. Um `bubble sort` que deveria ter várias linhas fica muito mais imples dessa forma
+
