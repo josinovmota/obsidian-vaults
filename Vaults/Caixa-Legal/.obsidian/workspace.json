@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/The pragmatic programmer.md",
+                "file": "1 - Source Materials/Effective Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The pragmatic programmer"
+              "title": "Effective Python"
             }
           }
         ]
@@ -191,14 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "966019167f709f63",
+  "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "1 - Source Materials/The pragmatic programmer.md",
     "1 - Source Materials/Effective Python.md",
     "4 - Main Notes/Dados e informação.md",
     "4 - Main Notes/Enumerate().md",
     "2 - Images Content/Pasted image 20260624091927.png",
     "1 - Source Materials/Jupyter Notebook.md",
-    "1 - Source Materials/The pragmatic programmer.md",
     "2 - Images Content/Pasted image 20260622085350.png",
     "4 - Main Notes/Trimmed Mean.md",
     "1 - Source Materials/Workbook 7.md",
