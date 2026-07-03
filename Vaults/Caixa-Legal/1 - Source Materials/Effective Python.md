@@ -21,3 +21,5 @@ Ideia boa quando você está fazendo um super cálculo matemático, por exemplo.
 
 Bem interessante essa ideia de unpacking de sets. Um `bubble sort` que deveria ter várias linhas fica muito mais imples dessa forma
 
+
+
