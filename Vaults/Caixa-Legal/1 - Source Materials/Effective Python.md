@@ -21,5 +21,11 @@ Ideia boa quando você está fazendo um super cálculo matemático, por exemplo.
 
 Bem interessante essa ideia de unpacking de sets. Um `bubble sort` que deveria ter várias linhas fica muito mais imples dessa forma
 
+> If I really need to achieve brevity and put this logic in a single expression, I can do that by moving it all into a helper function that I call inline
+
+Mais uma vez a ideia de encapsular. Eis que te procurava em todos os cantos e tu estavas aqui comigo
+
+
+
 
 
