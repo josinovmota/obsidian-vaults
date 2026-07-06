@@ -27,5 +27,3 @@ Mais uma vez a ideia de encapsular. Eis que te procurava em todos os cantos e tu
 
 
 
-
-
