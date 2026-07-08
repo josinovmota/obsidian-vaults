@@ -25,5 +25,6 @@ Bem interessante essa ideia de unpacking de sets. Um `bubble sort` que deveria t
 
 Mais uma vez a ideia de encapsular. Eis que te procurava em todos os cantos e tu estavas aqui comigo
 
+![[Pasted image 20260708085125.png]]
 
 
