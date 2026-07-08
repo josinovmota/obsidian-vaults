@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/Effective Python.md",
+                "file": "4 - Main Notes/Max Value Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Effective Python"
+              "title": "Max Value Python"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effec",
+                "query": "max",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,10 +193,10 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "1 - Source Materials/Effective Python.md",
     "2 - Images Content/Pasted image 20260708085125.png",
     "2 - Images Content/Pasted image 20260708085123.png",
     "4 - Main Notes/Max Value Python.md",
-    "1 - Source Materials/Effective Python.md",
     "1 - Source Materials/The pragmatic programmer.md",
     "4 - Main Notes/Dados e informação.md",
     "4 - Main Notes/Enumerate().md",
@@ -231,7 +231,6 @@
     "7 - Diario de Terapia/How To Do.canvas",
     "2 - Images Content/Pasted image 20240530092123.png",
     "2 - Images Content/Pasted image 20241001095603.png",
-    "2 - Images Content/Files/Pasted image 20250129005724.png",
     "9 - Resume",
     "8 - Projetos GPT/Unconfirmed 825475.crdownload",
     "8 - Projetos GPT/Unconfirmed 879362.crdownload",

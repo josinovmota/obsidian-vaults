@@ -15,3 +15,5 @@ print(max(dicionario, key=dicionario.get))
 ```
 
 Ou seja, o `max()` itera as chaves do dicionario mas toma como valor o `dicionario.get` que é justamente os valores de cada chave
+
+IMPORTANTÍSSIMO LEMBRAR: Note como o primeiro argumento do `max()` é algo iterável, ou seja, ele "olha" índice a índice do iterável. Com isso, podemos considerar o argumento `key=` como sendo algo a ser feito em cada iterável. No exemplo acima, se fizéssemos `dicionario.get` com todos os iteráveis, ai dar exatamente o valor deles
