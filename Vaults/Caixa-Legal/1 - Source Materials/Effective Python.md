@@ -39,6 +39,16 @@ Não é algo trivial de se saber, já que o python já fez a mudança, mas é in
 
 Big walrus operator. Meio chatinho de entender mas faz todo sentido quando consideramos processamento. Vamos lá, digamos que a gente quer usar uma função em um list comprehension. Segue o exemplo:
 
+```python
+lista = [abs(a) for a in numeros if abs(a) is not None]
+```
+É um exemplo meio esquisito mas da pra passar a ideia. Aqui estamos chamando a função `abs()` 2 vezes, ou seja, processando ela 2 vezes e caso ela seja bem pesada, digamos que demore `5 segundos` para ser executada, estamos gastando `10 segundos` no total. Já com o `walrus operator` nós não temos esse problema. Segue o exemplo:
+
+```python
+lista = [b for a in numeros if (b := abs(a)) is not None]
+```
+Agora temos o uso do walrus em `(b := abs(a))`. O que ele faz é exatamente é rodar a função e colocar o retorno da função dentro da variável `b`. Ou seja, aqui só rodamos a função uma vez. Note que foi colocado um parênteses externo e ele é muito importante para que o `is not None` não capture apenas o `abs(a)`.
+
 
 
 
