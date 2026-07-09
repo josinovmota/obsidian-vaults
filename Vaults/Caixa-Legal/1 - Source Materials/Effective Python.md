@@ -35,4 +35,10 @@ Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode 
 
 Não é algo trivial de se saber, já que o python já fez a mudança, mas é interessante. Antigamente, versões menores que a `Python 3.5`, a ordenação de um `dict` no python era feita por `hashs` e não pela ordem em que os dados foram inseridos. Isso causava um problema, pois caso usássemos o `print()` para debug, e depois utilizasse a posição do dict baseada na posição no print, ficaria tudo errado.
 
+> An assignment expression—also known as the walrus operator—is a new syntax feature introduced in Python 3.8 to solve a long-standing problem with the language that can cause code duplication. Whereas normal assignment statements are written a = b and pronounced “a equals b,” these assignments are written a := b and pronounced “a walrus b” (because := looks like a pair of eyeballs and tusks).
+
+Big walrus operator. Meio chatinho de entender mas faz todo sentido quando consideramos processamento. Vamos lá, digamos que a gente quer usar uma função em um list comprehension. Segue o exemplo:
+
+
+
 

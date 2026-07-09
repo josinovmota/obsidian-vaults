@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Linux Structure.md",
+                "file": "1 - Source Materials/Effective Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux Structure"
+              "title": "Effective Python"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "\\:=",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "82b62083d30485b5",
   "lastOpenFiles": [
+    "4 - Main Notes/Linux Structure.md",
     "1 - Source Materials/Effective Python.md",
     "4 - Main Notes/T-statistics.md",
     "4 - Main Notes/Null Hypothesis.md",
@@ -229,7 +230,6 @@
     "5 - Temp Notes/TODO Treinamento.md",
     "5 - Temp Notes/TEMP Treinamento Tiberius.md",
     "5 - Temp Notes/TEMP Probabilidade e Estatística.md",
-    "5 - Temp Notes/TEMP Pré-Cálculo.md",
     "7 - Diario de Terapia/How To Do.canvas",
     "2 - Images Content/Pasted image 20240530092123.png",
     "9 - Resume",
