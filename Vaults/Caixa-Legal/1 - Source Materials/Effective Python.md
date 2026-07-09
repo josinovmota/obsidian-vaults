@@ -35,3 +35,4 @@ Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode 
 
 Não é algo trivial de se saber, já que o python já fez a mudança, mas é interessante. Antigamente, versões menores que a `Python 3.5`, a ordenação de um `dict` no python era feita por `hashs` e não pela ordem em que os dados foram inseridos. Isso causava um problema, pois caso usássemos o `print()` para debug, e depois utilizasse a posição do dict baseada na posição no print, ficaria tudo errado.
 
+
