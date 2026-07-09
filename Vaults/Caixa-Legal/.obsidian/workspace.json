@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/Effective Python.md",
+                "file": "4 - Main Notes/Linux Structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Effective Python"
+              "title": "Linux Structure"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tracer bullet",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,13 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82b62083d30485b5",
+  "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "1 - Source Materials/Effective Python.md",
     "4 - Main Notes/T-statistics.md",
     "4 - Main Notes/Null Hypothesis.md",
     "4 - Main Notes/P-Value.md",
     "1 - Source Materials/The pragmatic programmer.md",
-    "1 - Source Materials/Effective Python.md",
     "2 - Images Content/Pasted image 20260708100821.png",
     "4 - Main Notes/Max Value Python.md",
     "2 - Images Content/Pasted image 20260708085125.png",
