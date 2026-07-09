@@ -30,5 +30,8 @@ Mais uma vez a ideia de encapsular. Eis que te procurava em todos os cantos e tu
 
 Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode ser perigoso caso você esteja usando uma estrutura muito grande, já que ele aloca memória e pode acabar consumindo a memória toda da máquina. Mas, com certeza, em estruturas pequenas para exercícios simples ou até mesmo o dia-a-dia, usar isso quebra um galho
 
-
+> Image
 ![[Pasted image 20260708100821.png]]
+
+Não é algo trivial de se saber, já que o python já fez a mudança, mas é interessante. Antigamente, versões menores que a `Python 3.5`, a ordenação de um `dict` no python era feita por `hashs` e não pela ordem em que os dados foram inseridos. Isso causava um problema, pois caso usássemos o `print()` para debug, e depois utilizasse a posição do dict baseada na posição no print, ficaria tudo errado.
+
