@@ -28,7 +28,15 @@ Mais uma vez a ideia de encapsular. Eis que te procurava em todos os cantos e tu
 > Image
 ![[Pasted image 20260708085125.png]]
 
-Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode ser perigoso caso você esteja usando uma estrutura muito grande, já que ele aloca memória e pode acabar consumindo a memória toda da máquina. Mas, com certeza, em estruturas pequenas para exercícios simples ou até mesmo o dia-a-dia, usar isso quebra um galho. 
+Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode ser perigoso caso você esteja usando uma estrutura muito grande, já que ele aloca memória e pode acabar consumindo a memória toda da máquina. Mas, com certeza, em estruturas pequenas para exercícios simples ou até mesmo o dia-a-dia, usar isso quebra um galho.
+
+Outro uso bem legal para o `*` é quando precisamos pegar os 2 extremos de uma lista, por exemplo. Digamos que foi retornada uma lista e queremos o valor com índice `0` e índice `-1`, podemos fazer unpack da seguinte forma:
+
+```python
+first_value, *middle, last_value = lista
+```
+
+Assim teremos o índice `0` na variável first_value e o índice `-1` na variável last_value 
 
 > Image
 ![[Pasted image 20260708100821.png]]
@@ -52,6 +60,7 @@ Agora temos o uso do walrus em `(b := abs(a))`. O que ele faz é exatamente é r
 >Image
 ![[Pasted image 20260714104118.png]]
 
+Essa função, de início, me pareceu muito estranha mas ela faz total sentido quando consideramos que o `(0, x)` e `(1, x)` são tuplas que são consideradas no `sort()`. Por exemplo, se o número está no grupo, ele sempre vai estar com `(0, )` no início e se não estiver no grupo, sempre vai ter `(1, )` no início. Essas tuplas também são ordenadas e ele sempre conta primei
 
 
 

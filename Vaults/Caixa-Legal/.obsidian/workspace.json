@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effect",
+                "query": "effec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,10 +193,10 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "2 - Images Content/Pasted image 20260714104118.png",
     "1 - Source Materials/The pragmatic programmer.md",
-    "4 - Main Notes/RSE.md",
     "1 - Source Materials/Effective Python.md",
+    "2 - Images Content/Pasted image 20260714104118.png",
+    "4 - Main Notes/RSE.md",
     "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/T-statistics.md",
     "4 - Main Notes/Null Hypothesis.md",
@@ -231,7 +231,6 @@
     "Untitled.base",
     "5 - Temp Notes/TODO Treinamento.md",
     "7 - Diario de Terapia/How To Do.canvas",
-    "2 - Images Content/Pasted image 20240530092123.png",
     "9 - Resume",
     "8 - Projetos GPT/Unconfirmed 825475.crdownload",
     "8 - Projetos GPT/Unconfirmed 879362.crdownload",
