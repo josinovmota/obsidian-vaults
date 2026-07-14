@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/Effective Python.md",
+                "file": "1 - Source Materials/The pragmatic programmer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Effective Python"
+              "title": "The pragmatic programmer"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\:=",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,12 +193,13 @@
   },
   "active": "82b62083d30485b5",
   "lastOpenFiles": [
-    "4 - Main Notes/Linux Structure.md",
+    "4 - Main Notes/RSE.md",
+    "1 - Source Materials/The pragmatic programmer.md",
     "1 - Source Materials/Effective Python.md",
+    "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/T-statistics.md",
     "4 - Main Notes/Null Hypothesis.md",
     "4 - Main Notes/P-Value.md",
-    "1 - Source Materials/The pragmatic programmer.md",
     "2 - Images Content/Pasted image 20260708100821.png",
     "4 - Main Notes/Max Value Python.md",
     "2 - Images Content/Pasted image 20260708085125.png",
@@ -229,7 +230,6 @@
     "Untitled.base",
     "5 - Temp Notes/TODO Treinamento.md",
     "5 - Temp Notes/TEMP Treinamento Tiberius.md",
-    "5 - Temp Notes/TEMP Probabilidade e Estatística.md",
     "7 - Diario de Terapia/How To Do.canvas",
     "2 - Images Content/Pasted image 20240530092123.png",
     "9 - Resume",

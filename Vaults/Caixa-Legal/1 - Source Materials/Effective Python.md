@@ -28,7 +28,7 @@ Mais uma vez a ideia de encapsular. Eis que te procurava em todos os cantos e tu
 > Image
 ![[Pasted image 20260708085125.png]]
 
-Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode ser perigoso caso você esteja usando uma estrutura muito grande, já que ele aloca memória e pode acabar consumindo a memória toda da máquina. Mas, com certeza, em estruturas pequenas para exercícios simples ou até mesmo o dia-a-dia, usar isso quebra um galho
+Achei interessante essa ideia de unpack usando o `*`. O livro só fala que pode ser perigoso caso você esteja usando uma estrutura muito grande, já que ele aloca memória e pode acabar consumindo a memória toda da máquina. Mas, com certeza, em estruturas pequenas para exercícios simples ou até mesmo o dia-a-dia, usar isso quebra um galho. 
 
 > Image
 ![[Pasted image 20260708100821.png]]

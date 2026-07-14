@@ -146,11 +146,11 @@ Coisa que pouco pensamos mas muito importa. Às vezes temos que buscar ter absol
 
 Bertrand Meyer criou um design pattern chamado Design By Contract. Ele é uma forma segura, mas não infalível, de criar uma aplicação/programa/etc de modo a minimizar os erros. Uma das primeira idéias são as pré-condições. Elas falam que primeiro é necessário que o programa tenha "leis" que definam bem os limites que devem ser pedidos a ele. Trazendo mais para um exemplo do dia-a-dia, podemos falar sobre um restaurante. Ao entrar no restaurante e fazer um pedido, você não pode pediu um "Dragão frito", por exemplo, e achar que eles devem te entregar. Já as post-conditions falam sobre o que o programa vai entregar. Voltando ao exemplo do restaurante, se você pedir um macarrão num restaurante que vende macarrão, eles devem te entregar um macarrão. A ideia parece simples, mas como dito anteriormente, às vezes o over-embellishment pode acabar dando mais espaço a problemas e erros
 
-> Imagem
+> Image
 
 ![[Pasted image 20260622085350.png]]
 
-Na época do java eu tive um grande problema com essa questão de tratar excessões. Naquele momento, com esse exemplo acima em mãos, eu teria entendindo muito melhor a ideia de "subir uma excessão" ou de "tratar todas as excessões em um lugar só"
+Na época do java eu tive um grande problema com essa questão de tratar/lidar com excessões ( erros ). Naquele momento, com esse exemplo acima em mãos, eu teria entendindo muito melhor a ideia de "subir uma excessão" ou de "tratar todas as excessões em um lugar só"
 
 
 ---
