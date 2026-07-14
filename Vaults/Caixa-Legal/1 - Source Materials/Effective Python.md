@@ -49,6 +49,11 @@ lista = [b for a in numeros if (b := abs(a)) is not None]
 ```
 Agora temos o uso do walrus em `(b := abs(a))`. O que ele faz é exatamente é rodar a função e colocar o retorno da função dentro da variável `b`. Ou seja, aqui só rodamos a função uma vez. Note que foi colocado um parênteses externo e ele é muito importante para que o `is not None` não capture apenas o `abs(a)`.
 
+>Image
+![[Pasted image 20260714104118.png]]
+
+
+
 
 
 
