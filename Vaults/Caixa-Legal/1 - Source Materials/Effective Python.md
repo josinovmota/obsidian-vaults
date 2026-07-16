@@ -62,6 +62,12 @@ Agora temos o uso do walrus em `(b := abs(a))`. O que ele faz é exatamente é r
 
 Essa função, de início, me pareceu muito estranha mas ela faz total sentido quando consideramos que o `(0, x)` e `(1, x)` são tuplas que são consideradas no `sort()`. Por exemplo, se o número está no grupo, ele sempre vai estar com `(0, )` no início e se não estiver no grupo, sempre vai ter `(1, )` no início. Essas tuplas também são ordenadas e ele sempre conta primeiro as que começam com `0`, depois as que começam com `1`
 
+> Image
+![[Pasted image 20260716094718.png]]
+![[Pasted image 20260716094742.png]]
+
+Uau
+
 
 
 
