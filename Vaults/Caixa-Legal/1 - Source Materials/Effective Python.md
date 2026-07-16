@@ -57,7 +57,7 @@ lista = [b for a in numeros if (b := abs(a)) is not None]
 ```
 Agora temos o uso do walrus em `(b := abs(a))`. O que ele faz é exatamente é rodar a função e colocar o retorno da função dentro da variável `b`. Ou seja, aqui só rodamos a função uma vez. Note que foi colocado um parênteses externo e ele é muito importante para que o `is not None` não capture apenas o `abs(a)`.
 
->Image
+> Image
 ![[Pasted image 20260714104118.png]]
 
 Essa função, de início, me pareceu muito estranha mas ela faz total sentido quando consideramos que o `(0, x)` e `(1, x)` são tuplas que são consideradas no `sort()`. Por exemplo, se o número está no grupo, ele sempre vai estar com `(0, )` no início e se não estiver no grupo, sempre vai ter `(1, )` no início. Essas tuplas também são ordenadas e ele sempre conta primeiro as que começam com `0`, depois as que começam com `1`
@@ -66,8 +66,15 @@ Essa função, de início, me pareceu muito estranha mas ela faz total sentido q
 ![[Pasted image 20260716094718.png]]
 ![[Pasted image 20260716094742.png]]
 
-Uau
 
+
+> Image
+![[Pasted image 20260716102118.png]]
+
+
+
+> Image
+![[Pasted image 20260716103022.png]]
 
 
 
