@@ -66,16 +66,18 @@ Essa função, de início, me pareceu muito estranha mas ela faz total sentido q
 ![[Pasted image 20260716094718.png]]
 ![[Pasted image 20260716094742.png]]
 
+Interessante essa keyword `nonlocal` apesar de eu nunca ter usado/visto antes de ler o livro. O que o carinha do reddit falou / que eu entendi é: Como ensinado pelo big HappyHippyHippo antigamente, o que nasce numa função morre numa função. Caso você tenha uma função `nested`, você pode referenciar as variáveis externas utilizando a keyword `nonlocal`
 
 
 > Image
 ![[Pasted image 20260716102118.png]]
 
-
+Ao enviar argumentos para uma função nós temos a possibilidade de usar algo como `name: "Roberto"`. Isso é a maneira convencional, agora o símbolo `**` nos permite mandar diretamente um dicionário como argumento. Eu achei isso mais interessante do que útil, já que como dito anteriormente, em versões mais antigas do python, em que os dicionários eram ordenados por `hashes`, a ordem deles ficava meio bagunçada e isso pode ocasionar uns big erros
 
 > Image
 ![[Pasted image 20260716103022.png]]
 
+Muito interessante notar que a hora, por mais que houve um `sleep(0,1)` não mudou. Isso se da pela forma que o compilador do python trabalha. Como a ideia dele é ler linha à linha, ele acaba computando o `when=datetime.now()` só 1 vez. Ou seja, mucho cuidado ao receber funções diretamente como parâmetros
 
 
 
