@@ -79,6 +79,9 @@ Ao enviar argumentos para uma função nós temos a possibilidade de usar algo c
 
 Muito interessante notar que a hora, por mais que houve um `sleep(0,1)` não mudou. Isso se da pela forma que o compilador do python trabalha. Como a ideia dele é ler linha à linha, ele acaba computando o `when=datetime.now()` só 1 vez. Ou seja, mucho cuidado ao receber funções diretamente como parâmetros
 
+> Image
+![[Pasted image 20260720094502.png]]
+
 
 
 
