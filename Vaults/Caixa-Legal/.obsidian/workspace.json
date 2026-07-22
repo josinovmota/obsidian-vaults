@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effec",
+                "query": "**",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "82b62083d30485b5",
   "lastOpenFiles": [
     "2 - Images Content/Pasted image 20260720101427.png",
     "2 - Images Content/Pasted image 20260720094502.png",
