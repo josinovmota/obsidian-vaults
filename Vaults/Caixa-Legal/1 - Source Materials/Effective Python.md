@@ -82,6 +82,9 @@ Muito interessante notar que a hora, por mais que houve um `sleep(0,1)` não mud
 > Image
 ![[Pasted image 20260720094502.png]]
 
+> Image
+![[Pasted image 20260720101427.png]]
+
 
 
 
