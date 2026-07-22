@@ -82,9 +82,12 @@ Muito interessante notar que a hora, por mais que houve um `sleep(0,1)` não mud
 > Image
 ![[Pasted image 20260720094502.png]]
 
+Por mais que eu ache bem feia essa sintaxe, achei interessante o uso. Se você colocar parâmetros numa função apenas com os nomes dele, o usuário pode passar argumentos tanto `posicionais` como argumentos com `keyword`. Só que dar tanta liberdade assim pode ser um pouco ruim, já que a pessoa pode confundir a ordem posicional, pode também esquecer o que é cada argumento. Para tal existe o `*` e `/`. O `*` significa, naturalmente, que quem vem após ele deverá ser passado por `keyword`, ou seja, no exemplo da imagem : `ignore_overflow=True`. Caso não houvesse o `*`, nós poderíamos passar apenas `True`. Já o `/` força que quem venha antes dele só possa ser passado como posicional, ou seja, sem a `keyword` antes. Isso ocasiona um erro caso o usuário coloque algo como `numerator = 10, 5`
+
 > Image
 ![[Pasted image 20260720101427.png]]
 
+Já usei muito em java e aqui no python eu nunca vi um uso tãooooo grande assim, mas agora que eu entendi o significado, faz um pouco mais sentido. Como o python executa linha à linha, existe um tipo de execução que fica complicado fazer sem `decorators` que é a de 
 
 
 
