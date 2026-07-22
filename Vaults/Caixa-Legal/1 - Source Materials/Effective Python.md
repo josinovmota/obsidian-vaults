@@ -87,7 +87,7 @@ Por mais que eu ache bem feia essa sintaxe, achei interessante o uso. Se você c
 > Image
 ![[Pasted image 20260720101427.png]]
 
-Já usei muito em java e aqui no python eu nunca vi um uso tãooooo grande assim, mas agora que eu entendi o significado, faz um pouco mais sentido. Como o python executa linha à linha, existe um tipo de execução que fica complicado fazer sem `decorators` que é a de 
+Já usei muito em java e aqui no python eu nunca vi um uso tãooooo grande assim, mas agora que eu entendi o significado, faz um pouco mais sentido. Como o python executa linha à linha, existe um tipo de execução que fica complicado fazer sem `decorators` que é a de executar algo logo antes da execução de uma `função`. Ainda vou ver como criar um decoratos e tals, mas já vi que é big interessante
 
 
 
