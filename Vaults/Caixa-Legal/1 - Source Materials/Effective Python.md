@@ -92,6 +92,9 @@ Já usei muito em java e aqui no python eu nunca vi um uso tãooooo grande assim
 > Image
 ![[Pasted image 20260728084141.png]]
 
+Já usei formas de contar isso, mas eu usei o tamanho das palavras e usar o tamanho das palavras deve acabar gastando mais processamento. Isso pra um texto pequeno é irrelevante, mas se tratando de dados, nunca se sabe. Achei esse jeito big elegante.
+
+
 
 
 
