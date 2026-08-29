@@ -20,7 +20,7 @@ O [[R²]] tem um probleminha. Ele tende a aumentar há cada vez que adicionamos 
 
 # Example
 
-Assim como o [[P-Value]] nos ajuda a saber se um predictor tem relação com os nossos dados, também temos o [[R²]] que é uma métrica um pouco mais tranquila de entender e também diz o mesmo. O [[R²]] vai de 0 à 1 e funciona como porcentagem. Se tirarmos um [[R²]] de 0.6 significa que tal predicto tem 60% de confiança de que ele tem a ver com a nossa Prediction
+Assim como o [[P-Value]] nos ajuda a saber se um predictor tem relação com os nossos dados, também temos o [[R²]] que é uma métrica um pouco mais tranquila de entender e também diz o mesmo. O [[R²]] vai de 0 à 1 e funciona como porcentagem. Se tirarmos um [[R²]] de 0.6 significa que tal predictor tem 60% de confiança de que ele tem a ver com a nossa Prediction
 
 # References
 
