@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Input variables.md",
+                "file": "1 - Source Materials/Maniscraft.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Input variables"
+              "title": "Maniscraft"
             }
           }
         ]
@@ -194,6 +194,10 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "1 - Source Materials/Jupyter Notebook.md",
+    "1 - Source Materials/Maniscraft.md",
+    "1 - Source Materials/plano-ml-engineer-24-meses-2.md",
+    "4 - Main Notes/Input variables.md",
     "4 - Main Notes/Inference.md",
     "4 - Main Notes/Git Topics.md",
     "4 - Main Notes/Groupby().md",
@@ -226,10 +230,6 @@
     "4 - Main Notes/RSE.md",
     "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/T-statistics.md",
-    "4 - Main Notes/Null Hypothesis.md",
-    "4 - Main Notes/Max Value Python.md",
-    "4 - Main Notes/Dados e informação.md",
-    "4 - Main Notes/Enumerate().md",
     "Untitled 1.base",
     "Untitled.base",
     "7 - Diario de Terapia/How To Do.canvas",
