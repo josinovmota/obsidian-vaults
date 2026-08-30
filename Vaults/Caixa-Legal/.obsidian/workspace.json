@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/Maniscraft.md",
+                "file": "1 - Source Materials/Plano ML Engineer 24 Meses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maniscraft"
+              "title": "Plano ML Engineer 24 Meses"
             }
           }
         ]
@@ -194,9 +194,9 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "1 - Source Materials/Jupyter Notebook.md",
     "1 - Source Materials/Maniscraft.md",
-    "1 - Source Materials/plano-ml-engineer-24-meses-2.md",
+    "1 - Source Materials/Jupyter Notebook.md",
+    "1 - Source Materials/Plano ML Engineer 24 Meses.md",
     "4 - Main Notes/Input variables.md",
     "4 - Main Notes/Inference.md",
     "4 - Main Notes/Git Topics.md",
