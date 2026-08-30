@@ -39,8 +39,8 @@ Não comece pelo capítulo 1. Comece por isto, hoje.
   - Por que a turma ao vivo importa: só nela existem prazos, correção de exercícios, revisão por pares e certificado. O modo self-paced não tem nada disso.
 - [ ] **Entrar no Slack da DataTalks.Club** (`datatalks.club`) nos canais `#course-ml-zoomcamp` e `#course-mlops-zoomcamp`. Comunidade global, em inglês — já começa a treinar escrita técnica.
 - [x] **Comprar o Géron novo** (ver §5, livro #3). Chegou a edição PyTorch em outubro/2025; a versão TensorFlow que você vê em listas antigas está defasada.
-- [ ] **Fazer o teste de inglês EF SET** (`efset.org`, gratuito, ~50min). Anote o resultado. É seu baseline. Sem esse número você não sabe onde está.
-- [ ] **Criar o repositório do diário de bordo** no GitHub: `learning-log`. Um arquivo markdown por semana. Isso vira prova de consistência de 24 meses.
+- [x] **Fazer o teste de inglês EF SET** (`efset.org`, gratuito, ~50min). Anote o resultado. É seu baseline. Sem esse número você não sabe onde está.
+- [x] **Criar o repositório do diário de bordo** no GitHub: `learning-log`. Um arquivo markdown por semana. Isso vira prova de consistência de 24 meses.
 
 ---
 
