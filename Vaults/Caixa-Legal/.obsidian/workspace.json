@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Git Topics.md",
+                "file": "4 - Main Notes/Input variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git Topics"
+              "title": "Input variables"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,8 +194,9 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "4 - Main Notes/Groupby().md",
+    "4 - Main Notes/Inference.md",
     "4 - Main Notes/Git Topics.md",
+    "4 - Main Notes/Groupby().md",
     "4 - Main Notes/R².md",
     "4 - Main Notes/Ommited Variable Bias.md",
     "4 - Main Notes/Chaves - Mysql.md",
@@ -227,7 +230,6 @@
     "4 - Main Notes/Max Value Python.md",
     "4 - Main Notes/Dados e informação.md",
     "4 - Main Notes/Enumerate().md",
-    "1 - Source Materials/Jupyter Notebook.md",
     "Untitled 1.base",
     "Untitled.base",
     "7 - Diario de Terapia/How To Do.canvas",
