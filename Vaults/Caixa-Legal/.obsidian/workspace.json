@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/Plano ML Engineer 24 Meses.md",
-                "mode": "source",
+                "file": "4 - Main Notes/Null Hypothesis.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plano ML Engineer 24 Meses"
+              "title": "Null Hypothesis"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "null hyp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,30 +195,32 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "4 - Main Notes/Inglês.md",
-    "1 - Source Materials/Plano ML Engineer 24 Meses.md",
-    "1 - Source Materials/Maniscraft.md",
-    "1 - Source Materials/Jupyter Notebook.md",
-    "4 - Main Notes/Input variables.md",
-    "4 - Main Notes/Inference.md",
-    "4 - Main Notes/Git Topics.md",
-    "4 - Main Notes/Groupby().md",
-    "4 - Main Notes/R².md",
-    "4 - Main Notes/Ommited Variable Bias.md",
-    "4 - Main Notes/Chaves - Mysql.md",
-    "4 - Main Notes/Data Science History.md",
-    "4 - Main Notes/H2 DB.md",
-    "4 - Main Notes/Linux Installation.md",
-    "4 - Main Notes/Mean Squared Error - MSE.md",
-    "4 - Main Notes/One shortcut or plugin each day.md",
-    "4 - Main Notes/Np.random.seed().md",
     "4 - Main Notes/P-Value.md",
+    "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
+    "4 - Main Notes/Linux Commands.md",
+    "4 - Main Notes/Least Squares.md",
+    "4 - Main Notes/Inglês.md",
+    "4 - Main Notes/H2 DB.md",
+    "4 - Main Notes/Git Origin.md",
+    "1 - Source Materials/Plano ML Engineer 24 Meses.md",
     "4 - Main Notes/Slicing.md",
-    "4 - Main Notes/Studying technique.md",
-    "4 - Main Notes/Variance.md",
+    "4 - Main Notes/SQL - MySql.md",
+    "4 - Main Notes/Standard Deviation.md",
+    "4 - Main Notes/SSH Key Setup.md",
+    "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
+    "4 - Main Notes/RSS.md",
+    "4 - Main Notes/SELECT Statement.md",
+    "4 - Main Notes/RSE.md",
+    "4 - Main Notes/R².md",
+    "4 - Main Notes/Nunique().md",
+    "4 - Main Notes/Ommited Variable Bias.md",
+    "1 - Source Materials/Maniscraft.md",
+    "1 - Source Materials/Tatulol - 2024.md",
+    "1 - Source Materials/Grandes pensadores.md",
+    "1 - Source Materials/Jupyter Notebook.md",
     "1 - Source Materials/Effective Python.md",
-    "1 - Source Materials/The pragmatic programmer.md",
-    "1 - Source Materials/Clean code in Python - Second edition.md",
+    "1 - Source Materials/Dicas do negão.md",
+    "1 - Source Materials/A vida intelectual do Padre Sertillanges.md",
     "2 - Images Content/Pasted image 20260728084141.png",
     "2 - Images Content/Pasted image 20260728084135.png",
     "2 - Images Content/Pasted image 20260720101427.png",
@@ -228,8 +231,6 @@
     "2 - Images Content/Pasted image 20260716094742.png",
     "2 - Images Content/Pasted image 20260716094718.png",
     "2 - Images Content/Pasted image 20260714104118.png",
-    "4 - Main Notes/RSE.md",
-    "4 - Main Notes/Linux Structure.md",
     "Untitled 1.base",
     "Untitled.base",
     "7 - Diario de Terapia/How To Do.canvas",
