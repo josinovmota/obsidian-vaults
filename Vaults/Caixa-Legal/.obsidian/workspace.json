@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Materials/The pragmatic programmer.md",
-                "mode": "preview",
+                "file": "7 - Books/Hands-On Machine Learning with Scikit-Learn and PyTorch.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The pragmatic programmer"
+              "title": "Hands-On Machine Learning with Scikit-Learn and PyTorch"
             }
           }
         ]
@@ -194,7 +194,19 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "6 - Tags/Estatística.md",
+    "7 - Books/Hands-On Machine Learning with Scikit-Learn and PyTorch.md",
+    "7 - Books/A vida intelectual do Padre Sertillanges.md",
+    "7 - Books/The pragmatic programmer.md",
+    "1 - Source Materials/Tatulol - 2024.md",
     "1 - Source Materials/Plano ML Engineer 24 Meses.md",
+    "1 - Source Materials/Maniscraft.md",
+    "1 - Source Materials/Jupyter Notebook.md",
+    "7 - Books/Effective Python.md",
+    "1 - Source Materials/Dicas do negão.md",
+    "1 - Source Materials/Data Science Phrases.md",
+    "7 - Books/Clean code in Python - Second edition.md",
+    "7 - Books",
     "4 - Main Notes/Null Hypothesis.md",
     "4 - Main Notes/P-Value.md",
     "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
@@ -209,17 +221,6 @@
     "4 - Main Notes/SSH Key Setup.md",
     "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
     "4 - Main Notes/RSS.md",
-    "4 - Main Notes/SELECT Statement.md",
-    "4 - Main Notes/RSE.md",
-    "4 - Main Notes/R².md",
-    "4 - Main Notes/Nunique().md",
-    "4 - Main Notes/Ommited Variable Bias.md",
-    "1 - Source Materials/Maniscraft.md",
-    "1 - Source Materials/Tatulol - 2024.md",
-    "1 - Source Materials/Grandes pensadores.md",
-    "1 - Source Materials/Jupyter Notebook.md",
-    "1 - Source Materials/Effective Python.md",
-    "1 - Source Materials/Dicas do negão.md",
     "2 - Images Content/Pasted image 20260728084141.png",
     "2 - Images Content/Pasted image 20260728084135.png",
     "2 - Images Content/Pasted image 20260720101427.png",
@@ -240,7 +241,6 @@
     "8 - Projetos GPT/Unconfirmed 84540.crdownload",
     "7 - Diario de Terapia/Diarios",
     "7 - Diario de Terapia",
-    "6 - Tags/Untitled",
     "2 - Images Content/Untitled.canvas",
     "Untitled.canvas"
   ]
