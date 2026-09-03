@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Books/Hands-On Machine Learning with Scikit-Learn and PyTorch.md",
+                "file": "1 - Source Materials/Plano ML Engineer 24 Meses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hands-On Machine Learning with Scikit-Learn and PyTorch"
+              "title": "Plano ML Engineer 24 Meses"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "6 - Tags/Estatística.md",
     "7 - Books/Hands-On Machine Learning with Scikit-Learn and PyTorch.md",
+    "6 - Tags/Estatística.md",
     "7 - Books/A vida intelectual do Padre Sertillanges.md",
     "7 - Books/The pragmatic programmer.md",
     "1 - Source Materials/Tatulol - 2024.md",
