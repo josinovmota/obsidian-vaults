@@ -4,7 +4,7 @@ Tags:[[6 - Tags/ISLP]], [[Statistics]], [[Linear Regression]]
 
 # Least Squares
 
-Least Squares é o produto de um método que busca **minimizar** o [[Residual Sum of Squares]] do **Fit** de um modelo sobre os dados. Vamos usar a **Regressão Linear** como exemplo:
+Least Squares é o produto de um método que busca **minimizar** o [[RSS]] do **Fit** de um modelo sobre os dados. Vamos usar a **Regressão Linear** como exemplo:
 
 Uma regressão linear cria uma Linha que está o mais próxima possível dos dados usados para o treinamento dela, ou seja:
 ![[Pasted image 20241101102939.png]]
