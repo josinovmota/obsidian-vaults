@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/T-statistics.md",
+                "file": "4 - Main Notes/Numpy Arrays Methods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "T-statistics"
+              "title": "Numpy Arrays Methods"
             }
           }
         ]
@@ -194,13 +194,22 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "4 - Main Notes/Null Hypothesis.md",
+    "4 - Main Notes/Np.random.seed().md",
+    "4 - Main Notes/Np.array().md",
+    "4 - Main Notes/Non-Parametric Methods.md",
+    "4 - Main Notes/Mean.md",
+    "4 - Main Notes/Max Value Python.md",
+    "4 - Main Notes/Linux Structure.md",
+    "4 - Main Notes/Linux Installation.md",
+    "4 - Main Notes/R².md",
+    "4 - Main Notes/T-statistics.md",
     "4 - Main Notes/Tipos de Estatística.md",
     "4 - Main Notes/Typing Training.md",
     "4 - Main Notes/Trimmed Mean.md",
     "4 - Main Notes/Unsupervised and Supervised Learning.md",
     "4 - Main Notes/Variance.md",
     "4 - Main Notes/Zip().md",
-    "4 - Main Notes/R².md",
     "4 - Main Notes/Reducible and Irreducible Error.md",
     "4 - Main Notes/RSE.md",
     "4 - Main Notes/RSS.md",
@@ -209,17 +218,8 @@
     "4 - Main Notes/SQL - MySql.md",
     "4 - Main Notes/SSH Key Setup.md",
     "4 - Main Notes/Prediction.md",
-    "4 - Main Notes/Np.random.seed().md",
-    "4 - Main Notes/Mean.md",
-    "4 - Main Notes/Max Value Python.md",
-    "4 - Main Notes/Linux Installation.md",
     "4 - Main Notes/Least Squares.md",
     "4 - Main Notes/Inglês.md",
-    "4 - Main Notes/Input variables.md",
-    "4 - Main Notes/H2 DB.md",
-    "4 - Main Notes/Inference.md",
-    "4 - Main Notes/F-statistics.md",
-    "4 - Main Notes/Data Science History.md",
     "2 - Images Content/Pasted image 20260915194320.png",
     "7 - Books",
     "2 - Images Content/Pasted image 20260728084141.png",
