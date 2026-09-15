@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/ML Zoomcamp 1 Intro.md",
+                "file": "4 - Main Notes/Bias Variance Trade-Off.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ML Zoomcamp 1 Intro"
+              "title": "Bias Variance Trade-Off"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "3 - Templates/Template Zoomcamp.md",
     "4 - Main Notes/ML Zoomcamp 1 Intro.md",
+    "2 - Images Content/Pasted image 20260915194320.png",
+    "3 - Templates/Template Zoomcamp.md",
     "3 - Templates/Note Template.md",
     "4 - Main Notes/Max Value Python.md",
     "7 - Books/Effective Python.md",
@@ -220,7 +221,6 @@
     "4 - Main Notes/Linux Commands.md",
     "4 - Main Notes/Least Squares.md",
     "4 - Main Notes/Inglês.md",
-    "4 - Main Notes/H2 DB.md",
     "2 - Images Content/Pasted image 20260728084141.png",
     "2 - Images Content/Pasted image 20260728084135.png",
     "2 - Images Content/Pasted image 20260720101427.png",
@@ -230,7 +230,6 @@
     "2 - Images Content/Pasted image 20260716102118.png",
     "2 - Images Content/Pasted image 20260716094742.png",
     "2 - Images Content/Pasted image 20260716094718.png",
-    "2 - Images Content/Pasted image 20260714104118.png",
     "Untitled 1.base",
     "Untitled.base",
     "7 - Diario de Terapia/How To Do.canvas",
