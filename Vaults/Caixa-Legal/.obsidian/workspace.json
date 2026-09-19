@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Numpy Arrays Methods.md",
+                "file": "4 - Main Notes/ML Zoomcamp 1 Intro - ML vs Rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Numpy Arrays Methods"
+              "title": "ML Zoomcamp 1 Intro - ML vs Rules"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "4 - Main Notes/ML Zoomcamp 1 Intro - What is ML.md",
+    "4 - Main Notes/ML Zoomcamp 1 Intro - ML vs Rules.md",
+    "4 - Main Notes/Numpy Arrays Methods.md",
     "4 - Main Notes/Null Hypothesis.md",
     "4 - Main Notes/Np.random.seed().md",
     "4 - Main Notes/Np.array().md",
@@ -217,9 +220,6 @@
     "4 - Main Notes/Slicing.md",
     "4 - Main Notes/SQL - MySql.md",
     "4 - Main Notes/SSH Key Setup.md",
-    "4 - Main Notes/Prediction.md",
-    "4 - Main Notes/Least Squares.md",
-    "4 - Main Notes/Inglês.md",
     "2 - Images Content/Pasted image 20260915194320.png",
     "7 - Books",
     "2 - Images Content/Pasted image 20260728084141.png",

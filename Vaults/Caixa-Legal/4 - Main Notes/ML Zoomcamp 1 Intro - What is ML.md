@@ -2,7 +2,7 @@
 
 Tags: [[Estatística]], [[Programming]]
 
-# ML Zoomcamp 1 Intro
+# ML Zoomcamp 1 Intro - What is ML
 
 Problema inicial é: Por quanto eu deveria vender o meu carro. É de se esperar que exista um senso comum entre os valores dos carros. Esse senso é dado por características do veículo. Por exemplo: Se eu tenho um carro de 2011 e estou em 2026, muito provavelmente esse carro perdeu algum valor em relação a quando ele lançou. 
 
