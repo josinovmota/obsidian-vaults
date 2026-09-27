@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/ML Zoomcamp 1 Intro - CRISP-DM.md",
+                "file": "4 - Main Notes/Groupby().md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ML Zoomcamp 1 Intro - CRISP-DM"
+              "title": "Groupby()"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pandas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,8 +195,9 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "4 - Main Notes/ML Zoomcamp 1 Intro - Supervised Machine Learning.md",
+    "4 - Main Notes/Nunique().md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - CRISP-DM.md",
+    "4 - Main Notes/ML Zoomcamp 1 Intro - Supervised Machine Learning.md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - ML vs Rules.md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - What is ML.md",
     "4 - Main Notes/Modelo de Dados Relacional.md",
@@ -219,7 +221,6 @@
     "4 - Main Notes/T-statistics.md",
     "4 - Main Notes/Tipos de Estatística.md",
     "4 - Main Notes/Typing Training.md",
-    "4 - Main Notes/Trimmed Mean.md",
     "2 - Images Content/Pasted image 20260915194320.png",
     "7 - Books",
     "2 - Images Content/Pasted image 20260728084141.png",
