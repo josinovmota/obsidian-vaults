@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/ML Zoomcamp 1 Intro -.md",
+                "file": "4 - Main Notes/ML Zoomcamp 1 Intro - Supervised Machine Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ML Zoomcamp 1 Intro -"
+              "title": "ML Zoomcamp 1 Intro - Supervised Machine Learning"
             }
           }
         ]
@@ -195,7 +195,7 @@
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
     "4 - Main Notes/ML Zoomcamp 1 Intro - ML vs Rules.md",
-    "4 - Main Notes/ML Zoomcamp 1 Intro -.md",
+    "4 - Main Notes/ML Zoomcamp 1 Intro - Supervised Machine Learning.md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - What is ML.md",
     "4 - Main Notes/Modelo de Dados Relacional.md",
     "4 - Main Notes/Np.array().md",
