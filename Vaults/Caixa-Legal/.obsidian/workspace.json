@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Books/The pragmatic programmer.md",
+                "file": "7 - Books/Effective Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The pragmatic programmer"
+              "title": "Effective Python"
             }
           }
         ]
@@ -52,7 +52,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -194,6 +194,7 @@
   },
   "active": "d570e2807af9b52b",
   "lastOpenFiles": [
+    "7 - Books/The pragmatic programmer.md",
     "4 - Main Notes/Groupby().md",
     "4 - Main Notes/Nunique().md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - CRISP-DM.md",
@@ -219,7 +220,6 @@
     "4 - Main Notes/Linux Installation.md",
     "4 - Main Notes/R².md",
     "4 - Main Notes/T-statistics.md",
-    "4 - Main Notes/Tipos de Estatística.md",
     "2 - Images Content/Pasted image 20260915194320.png",
     "7 - Books",
     "2 - Images Content/Pasted image 20260728084141.png",
