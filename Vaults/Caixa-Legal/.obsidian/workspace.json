@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Books/Effective Python.md",
+                "file": "4 - Main Notes/Git Topics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Effective Python"
+              "title": "Git Topics"
             }
           }
         ]
@@ -192,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "966019167f709f63",
   "lastOpenFiles": [
+    "6 - Tags/Treinamento Tiberius.md",
+    "4 - Main Notes/Git Topics.md",
+    "7 - Books/Effective Python.md",
     "7 - Books/The pragmatic programmer.md",
     "4 - Main Notes/Groupby().md",
     "4 - Main Notes/Nunique().md",
@@ -217,9 +220,6 @@
     "4 - Main Notes/Non-Parametric Methods.md",
     "4 - Main Notes/Mean.md",
     "4 - Main Notes/Max Value Python.md",
-    "4 - Main Notes/Linux Installation.md",
-    "4 - Main Notes/R².md",
-    "4 - Main Notes/T-statistics.md",
     "2 - Images Content/Pasted image 20260915194320.png",
     "7 - Books",
     "2 - Images Content/Pasted image 20260728084141.png",
