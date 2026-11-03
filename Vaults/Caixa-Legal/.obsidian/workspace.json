@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Git Topics.md",
+                "file": "4 - Main Notes/Median.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git Topics"
+              "title": "Median"
             }
           }
         ]
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "966019167f709f63",
+  "active": "d570e2807af9b52b",
   "lastOpenFiles": [
-    "6 - Tags/Treinamento Tiberius.md",
+    "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/Git Topics.md",
+    "6 - Tags/Treinamento Tiberius.md",
     "7 - Books/Effective Python.md",
     "7 - Books/The pragmatic programmer.md",
     "4 - Main Notes/Groupby().md",
@@ -207,7 +208,6 @@
     "4 - Main Notes/Modelo de Dados Relacional.md",
     "4 - Main Notes/Np.array().md",
     "4 - Main Notes/Modelo Entidade-Relacionamento - MER.md",
-    "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/Mean Squared Error - MSE.md",
     "4 - Main Notes/Null Hypothesis.md",
     "4 - Main Notes/Overfitting.md",
