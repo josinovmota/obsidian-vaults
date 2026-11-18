@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "82b62083d30485b5",
   "lastOpenFiles": [
     "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/Git Topics.md",
