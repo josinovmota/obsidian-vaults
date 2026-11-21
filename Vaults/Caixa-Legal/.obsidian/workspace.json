@@ -11,24 +11,13 @@
             "id": "d570e2807af9b52b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "4 - Main Notes/R².md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Untitled 1.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "R²"
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -65,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "r²",
+                "query": "walr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d570e2807af9b52b",
+  "active": "82b62083d30485b5",
   "lastOpenFiles": [
+    "Untitled.base",
+    "4 - Main Notes/R².md",
     "4 - Main Notes/SQL - MySql.md",
     "4 - Main Notes/Slicing.md",
     "4 - Main Notes/Sistemas de Gerenciamento de Banco de Dados - Sgbd.md",
@@ -206,7 +197,6 @@
     "4 - Main Notes/Unsupervised and Supervised Learning.md",
     "4 - Main Notes/Variance.md",
     "4 - Main Notes/Zip().md",
-    "4 - Main Notes/R².md",
     "4 - Main Notes/Median.md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - ML vs Rules.md",
     "4 - Main Notes/ML Zoomcamp 1 Intro - Supervised Machine Learning.md",
@@ -220,13 +210,11 @@
     "4 - Main Notes/Apply().md",
     "4 - Main Notes/Ruff Importing a library in the middle of a .ipynb file.md",
     "Untitled 1.base",
-    "Untitled.base",
     "4 - Main Notes/Linux Structure.md",
     "4 - Main Notes/Git Topics.md",
     "6 - Tags/Treinamento Tiberius.md",
     "7 - Books/Effective Python.md",
     "7 - Books/The pragmatic programmer.md",
-    "4 - Main Notes/Groupby().md",
     "2 - Images Content/Pasted image 20260915194320.png",
     "7 - Books",
     "2 - Images Content/Pasted image 20260728084141.png",
